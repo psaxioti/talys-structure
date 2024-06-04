@@ -1,0 +1,17 @@
+gamgamadjust 40 97 0.22
+rvadjust n 0.98 0. 3. 0.1 1.015
+avadjust n 0.98
+d1adjust n 0.96
+rvadjust p 1.06 0.08 #t#
+avadjust p 1.06 0.08 #t#
+ctable 39 96 1.8
+gnadjust 40 97 1.10
+gpadjust 40 97 1.10
+m2constant 1.2
+gnadjust 40 96 0.92
+gpadjust 40 96 0.92
+aadjust 40 97 0.96
+rvadjust a 1.02
+avadjust a 1.02
+cstrip a 1.2
+cknock a 1.2

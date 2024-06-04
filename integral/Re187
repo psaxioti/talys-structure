@@ -1,0 +1,10 @@
+Re 187   16  g  t    xs200000.L00       fns_7hour    1.680000e+00               
+Re 187   16  g  t    xs200000.L00        fns_5min    1.500000e+00               
+Re 187   16  g  t    xs200000.L00        fng_heat    2.000000e+00               
+Re 187   16  g  t    xs200000.L00          fng_Re    1.860000e+00               
+Re 187  107  t  t    xs000001.tot          fng_Re    3.190000e-01               
+Re 187  107  t  t    xs000001.tot          fng_Re    7.100000e-04               
+Re 187  107  m  t    xs000001.L01        fng_heat    3.640000e-03               
+Re 187  107  m  t    xs000001.L01          fng_Re    7.020000e-03               
+Re 187  103  t  t    xs010000.tot          fng_Re    4.430000e-03               
+Re 187  105  t  +    xs000100.tot            d-Be    3.300000e-03               

@@ -1,6 +1,0 @@
-rvadjustF n 2. 10. 5. 5.
-gamgamadjust 34 78 1.00
-rvadjust d 1.05
-avadjust d 1.05
-Cstrip a 0.4
-Cknock a 0.4

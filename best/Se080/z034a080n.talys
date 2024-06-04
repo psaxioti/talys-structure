@@ -1,0 +1,17 @@
+rvadjust n 1. 0.01 1. 0.5 0.99
+rvadjust n 1. 10. 5.5 1.02 
+gamgamadjust 34 81 0.45
+gnadjust 34 81 0.90
+gpadjust 34 81 0.90
+m2constant 0.9
+rvadjust p 1.04
+avadjust p 1.04
+rvadjust a 1.15
+avadjust a 1.15
+aadjust       32  77 1.10
+Cstrip a 2.40
+Cknock a 2.40
+tadjust 34 80 1.15
+branch 34 81 7 1 1 1.
+branch 34 81 10 1 1 1.
+branch 34 81 14 1 1 1.

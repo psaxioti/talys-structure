@@ -1,0 +1,12 @@
+gamgamadjust 34 79 0.80
+rvadjust p 1.06
+avadjust p 1.06
+rvadjust a 1.02
+avadjust a 1.02
+gnadjust 34 79 0.98
+gpadjust 34 79 0.98
+rvadjust n 1. 0.01 3. 1.5 1.03
+ldmodel 2
+cknock a 0.80
+cstrip a 0.80
+tadjust 34 78 1.15
