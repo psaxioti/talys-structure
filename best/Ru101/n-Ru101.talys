@@ -1,5 +1,3 @@
-# 2015: Arjan Koning
-# 2017: Natalia Dzysiuk optimization
 #
 # General
 #
@@ -12,12 +10,9 @@ ldmodel 2
 #
 gnadjust 44 102 1.04
 gpadjust 44 102 1.04
-rvadjust p 0.93
-avadjust p 0.93
 #
 # (n,a)
 #
-alphaomp 6
 cstrip a 0.6
 cknock a 0.6
 #

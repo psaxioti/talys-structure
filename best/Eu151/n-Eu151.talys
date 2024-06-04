@@ -18,7 +18,7 @@ avadjust a 1.02
 #
 # (n,g)
 #
-gamgamadjust 63 152 1.15                                                        
+gamgamadjust 63 152 1.25                                                        
 pshiftadjust 63 151 0.80                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.

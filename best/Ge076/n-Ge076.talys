@@ -17,16 +17,14 @@ gpadjust 32 77 1.07
 #
 # (n,a)
 #
-alphaomp 6
-rvadjust a 1.12
-avadjust a 1.12
+rvadjust a 1.08
+avadjust a 1.08
 Cknock a 0.6
 Cstrip a 0.6
 #
 # (n,g)
 #
-gamgamadjust 32  77 0.96
-rgamma 4.5
+gamgamadjust 32  77 0.85
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

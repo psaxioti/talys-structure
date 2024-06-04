@@ -17,7 +17,6 @@ aadjust 21 44 0.85
 #
 # (n,a)
 #
-alphaomp 1
 rvadjust a 1. 12. 30. 22. 0.80
 avadjust a 1. 12. 30. 22. 0.80
 Cknock a 1.40 12. 30. 22. 0.50
@@ -29,3 +28,4 @@ gamgamadjust 21  46 0.75
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+branch 21 44 10 2 5 0.7 4 0.3

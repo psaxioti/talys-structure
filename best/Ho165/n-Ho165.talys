@@ -10,6 +10,8 @@ ldmodel 2
 #
 rvadjust p 0.97
 avadjust p 0.97
+#gnadjust 67 166 1.08
+#gpadjust 67 166 1.08
 #
 # (n,a)
 #
@@ -30,3 +32,7 @@ cknock t 2.3
 cstrip t 2.3
 cknock h 3.3
 cstrip h 3.3
+branch 67 164 6 1 0 1.
+branch 67 164 8 1 0 1.
+branch 67 164 10 1 3 1.
+branch 67 164 11 1 3 1.

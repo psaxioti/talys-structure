@@ -19,7 +19,6 @@ gpadjust 13 29 1.08
 #
 # (n,a)
 #
-alphaomp 1
 cknock a 0.5
 cstrip a 0.5
 #

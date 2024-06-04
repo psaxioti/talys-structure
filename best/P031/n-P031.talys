@@ -19,7 +19,6 @@ gpadjust  14  31 1.15
 #
 # (n,a)
 #
-alphaomp 1
 rvadjust a 1.08
 avadjust a 1.08
 cknock a 0.80

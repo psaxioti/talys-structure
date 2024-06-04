@@ -1,4 +1,4 @@
-# Natalia Dzysiuk 2016 optimization
+#
 # General
 #
 ldmodel 2
@@ -9,26 +9,17 @@ m2constant 1.30
 #
 # (n,p), (n,2n), (n,np)
 #
-rvadjust p 1.1
+rvadjust p 1.10
 aadjust 27 57 0.95
 pshift 27 57 -0.8
 pshift 27 58 -0.85
 #
 # (n,a)
 #
-alphaomp 1
 rvadjust a 1.02
 avadjust a 1.02
-cknock a 0.6
-cstrip a 0.6
-rvadjustF a 8 25 -30 3.
-pshift 26 55 -0.76
-rvadjust d 1.05
-avadjust d 1.05
-#
-rvadjust t 1.09
-avadjust t 1.09
-cstrip t 0.2
+cknock a 0.5
+cstrip a 0.5
 #
 # (n,g)
 #
@@ -36,3 +27,7 @@ gamgamadjust 28  59 0.33
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+branch 27 58 2 2 1 0.8 0 0.2
+branch 27 58 12 1 1 1.0
+branch 27 58 17 1 1 1.0
+branch 27 58 20 1 1 1.0

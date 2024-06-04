@@ -1,17 +1,1 @@
-# Natalia Dzysiuk 2016 optimization
-ldmodel 2
-rvadjust p 0.75
-avadjust p 0.75
-gpadjust 7 16 0.8
-gnadjust 7 16 0.8
-#
-alphaomp 1
-rvadjust t 1.01
-avadjust t 1.01
-cstrip t 2.0
-cknock t 2.0
-#
-rvadjust d 0.6
-avadjust d 0.6
-#
 gamgamadjust  8  17 0.10                                                        

@@ -1,5 +1,3 @@
-# 2015: Arjan Koning
-# 2017: Natalia Dzysiuk optimization
 #
 # General
 #
@@ -12,21 +10,19 @@ d1adjust n 1.10 5. 25. 1.20
 #
 # (n,p), (n,2n), (n,np)
 #
-rvadjust p 1.015
-avadjust p 1.015
-rvadjustF p 2 8 -45 2.
-avadjustF p 2 8 -45 2.
-gnadjust 31 70 1.16
-gpadjust 31 70 1.16
-aadjust 30 69 1.02
+rvadjust p 1.03
+avadjust p 1.03
+gnadjust 31 70 1.10
+gpadjust 31 70 1.10
+aadjust 30 69 0.94
 #
 # (n,a)
 #
-alphaomp 6
-rvadjust a 1.03
-avadjust a 1.03
-Cstrip a 0.1
-Cknock a 0.1
+rvadjust a 0.98
+avadjust a 0.98
+Cstrip a 0.30
+Cknock a 0.30
+#aadjust 29 66 0.90
 #
 # (n,g)
 #
@@ -34,3 +30,10 @@ gamgamadjust 31 70 1.80
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+#Cstrip t 2.35
+#Cknock t 2.35
+branch 30 69 5 1 1 1.
+branch 30 69 7 1 1 1.
+branch 30 69 9 1 1 1.
+branch 30 69 11 1 1 1.
+branch 30 69 12 1 1 1.

@@ -13,7 +13,6 @@ avadjust p 1.04
 #
 # (n,a)
 #
-alphaomp 1
 Cstrip a 0.80
 Cknock a 0.80
 #

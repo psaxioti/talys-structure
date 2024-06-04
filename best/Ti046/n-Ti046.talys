@@ -1,4 +1,4 @@
-# Natalia Dzysiuk 2016 optimization
+#
 # General
 #
 ldmodel 2
@@ -9,17 +9,17 @@ m2constant 0.75
 #
 # (n,p), (n,2n), (n,np)
 #
-rvadjust p 1.02
-avadjust p 1.02
-gnadjust 22 47 0.95
-gpadjust 22 47 0.95
+rvadjust p 1.04
+avadjust p 1.04
+gnadjust 22 47 0.92
+gpadjust 22 47 0.92
 pshiftadjust 21 46 -0.9
 aadjust 21 46 1.09
 pshiftadjust 21 45 0.8
 #
 # (n,a)
 #
-alphaomp 1
+#
 # (n,g)
 #
 gamgamadjust 22  47 0.80                                                        

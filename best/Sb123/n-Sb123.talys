@@ -1,5 +1,3 @@
-# 2015: Arjan Koning
-# 2017: Natalia Dzysiuk optimization
 #
 # General
 #
@@ -10,18 +8,36 @@ ldmodel 2
 #
 # (n,p), (n,2n), (n,np)
 #
-rvadjust p 0.55
-gpadjust 50 123 0.75
+rvadjust p 0.94
+avadjust p 0.94
 gnadjust 51 124 1.10
+gpadjust 51 124 1.10
 #
 # (n,a)
 #
 #
 # (n,g)
 #
-gamgamadjust 51 124 0.68
-Rgamma 3.1                                                        
-pshiftadjust 51 124 -0.3                                                        
+gamgamadjust 51 124 0.65                                                        
+pshiftadjust 51 123 0.60                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+branch 51 122 7 1 0 1.
+branch 51 122 20 1 0 1.
+#
+#Sn123
+branch 50 123 7 1 0 1.
+branch 50 123 10 2 3 0.5 1 0.5
+branch 50 123 15 2 3 0.5 1 0.5
+branch 50 123 16 2 7 0.5 3 0.5
+branch 50 123 17 2 6 0.5 0 0.5
+branch 50 123 19 2 7 0.5 3 0.5
+branch 50 123 20 2 4 0.5 1 0.5
+branch 50 123 21 2 4 0.5 1 0.5
+branch 50 123 22 2 6 0.5 2 0.5
+branch 50 123 28 2 3 0.5 1 0.5
+branch 50 123 29 2 3 0.5 1 0.5
+branch 50 123 32 2 3 0.5 1 0.5
+branch 50 123 34 2 6 0.5 2 0.5
+branch 50 123 35 2 6 0.5 0 0.5

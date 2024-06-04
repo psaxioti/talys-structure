@@ -24,3 +24,7 @@ pshiftadjust 47 109 1.00
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+branch 47 110 10 1 2 1.
+branch 47 110 14 1 2 1.
+branch 47 110 17 1 2 1.
+branch 47 110 26 1 2 1.

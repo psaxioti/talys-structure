@@ -1,5 +1,3 @@
-# 2015: Arjan Koning
-# 2017: Natalia Dzysiuk optimization
 #
 # General
 #
@@ -10,24 +8,17 @@ ldmodel 2
 #
 # (n,p), (n,2n), (n,np)
 #
-rvadjust p 0.9
-avadjust p 0.9
-#
-rvadjust n 0.99
-gnadjust 82 208 0.96
-gpadjust 82 208 0.96
+rvadjust p 0.96
+avadjust p 0.96
+gnadjust 82 208 1.08
+gpadjust 82 208 1.08
 #
 # (n,a)
 #
-alphaomp 6
-cstrip a 3.0
-cknock a 3.0
-rvadjust a 1.1
-avadjust a 1.1
 #
 # (n,g)
 #
-gamgamadjust 82 208 4.7                                                       
+gamgamadjust 82 208 14.0                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

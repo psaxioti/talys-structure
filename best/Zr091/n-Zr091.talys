@@ -1,5 +1,3 @@
-# 2015: Arjan Koning
-# 2017: Natalia Dzysiuk optimization
 #
 # General
 #
@@ -12,24 +10,17 @@ rvadjust n 1. 4. 8. 6. 0.99
 #
 # (n,p), (n,2n), (n,np)
 #
-rvadjust p 1.2
-avadjust p 1.2
-rvadjustF p 8 35 -20 1.8
-avadjustF p 8 35 -20 1.8
-gnadjust 39 91 0.7
-gpadjust 39 91 0.7
-#
-aadjust 39 90 0.7
+rvadjust p 1.10
+avadjust p 1.10
+gnadjust 40 93 0.95
+gpadjust 40 93 0.95
 #
 # (n,a)
 #
-alphaomp 6
-rvadjust a 0.93
 #
 # (n,g)
 #
-gamgamadjust 40 92 1.34 0.30 #t#
-rgamma 1.8
+gamgamadjust 40 92 1.20 0.20 #t#
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

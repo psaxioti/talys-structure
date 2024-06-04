@@ -14,7 +14,7 @@ ldmodel 2
 #
 # (n,g)
 #
-gamgamadjust 78 191 0.40                                                        
+gamgamadjust 78 191 1.00                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

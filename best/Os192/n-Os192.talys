@@ -19,7 +19,11 @@ avadjust a 0.90
 #
 # (n,g)
 #
-gamgamadjust 76 193 0.65
+gamgamadjust 76 193 0.37
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+branch 76 191 2 1 1 1.
+branch 76 191 6 1 1 1.
+branch 76 191 8 1 1 1.
+branch 76 191 11 1 1 1.
