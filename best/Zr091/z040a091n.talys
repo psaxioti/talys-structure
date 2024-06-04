@@ -1,9 +1,26 @@
-gamgamadjust 40 92 1.05 0.20 #t#
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
 rvadjust n 1. 0.01 1.5 0.7 0.99
 rvadjust n 1. 4. 8. 6. 0.99
-rvadjust p 1.05
-avadjust p 1.05
-gnadjust 40 93 0.93
-gpadjust 40 93 0.93
-cstrip a 0.6
-cknock a 0.6
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 1.10
+avadjust p 1.10
+gnadjust 40 93 0.95
+gpadjust 40 93 0.95
+#
+# (n,a)
+#
+#
+# (n,g)
+#
+gamgamadjust 40 92 1.20 0.20 #t#
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#

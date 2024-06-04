@@ -1,0 +1,28 @@
+#
+# General
+#
+ldmodel 2
+m2constant 1.30
+#
+# (n,tot), (n,el), (n,inl)
+#
+s2adjust 49 113 2.0
+#
+# (n,p), (n,2n), (n,np)
+#
+#
+# (n,a)
+#
+rvadjust a 0.84
+rvadjust a 0.84
+#
+# (n,g)
+#
+gamgamadjust 49 114 1.40
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#
+branch 49 114 10 1 0 1.
+branch 49 112 5 1 0 1.
+branch 49 112 11 1 0 1.
+branch 49 112 13 1 0 1.

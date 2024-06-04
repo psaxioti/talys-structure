@@ -1,0 +1,48 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+optmodfilen 32 ge.omp
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 1.10
+avadjust p 1.10
+gnadjust 32 75 1.07
+gpadjust 32 75 1.07
+#
+# (n,a)
+#
+rvadjust a 1.07
+avadjust a 1.07
+cknock a 0.40
+cstrip a 0.40
+aadjust       30  71 1.04
+#
+# (n,g)
+#
+gamgamadjust 32  75 0.80                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#
+branch 30 71  6 1 0 1.0
+branch 30 71 10 1 0 1.0
+branch 30 71 11 1 0 1.0
+branch 30 71 12 1 0 1.0
+branch 30 71 13 1 0 1.0
+branch 30 71 18 1 0 1.0
+branch 30 71 19 1 0 1.0
+branch 30 71 20 1 0 1.0
+branch 30 71 21 1 0 1.0
+branch 30 71 22 1 0 1.0
+branch 30 71 23 1 0 1.0
+branch 30 71 24 1 0 1.0
+branch 30 71 25 1 0 1.0
+branch 30 71 26 1 0 1.0
+branch 30 71 27 1 0 1.0
+branch 30 71 28 1 0 1.0
+branch 30 71 29 1 0 1.0
+branch 30 71 30 1 0 1.0

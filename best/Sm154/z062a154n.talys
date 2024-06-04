@@ -1,0 +1,23 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+#
+# (n,a)
+#
+cknock a 1.6
+cstrip a 1.6
+#
+# (n,g)
+#
+gamgamadjust 62 155 0.60                                                        
+pshiftadjust 62 154 0.80                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#

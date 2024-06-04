@@ -1,0 +1,25 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+optmod 72 177 z072a177n.omp n                                                   
+optmod 72 176 z072a176n.omp n                                                   
+optmod 72 174 z072a174n.omp n                                                   
+deformfile  72  z072a177n.def
+#
+# (n,p), (n,2n), (n,np)
+#
+#
+# (n,a)
+#
+#
+# (n,g)
+#
+gamgamadjust 72 178 0.90                                                        
+pshiftadjust 72 177 0.60                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#

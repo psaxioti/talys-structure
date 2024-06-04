@@ -1,0 +1,49 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 0.93
+avadjust p 0.93
+s2adjust 77 196 2.3
+#
+# (n,a)
+#
+rvadjust a 1.04
+avadjust a 1.04
+cknock a 1.5
+cstrip a 1.5
+#
+# (n,g)
+#
+gamgamadjust 78 197 0.95
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#
+branch 77 196 8 1 0 1.
+branch 77 196 13 1 0 1.
+branch 77 196 14 1 0 1.
+branch 77 196 25 1 0 1.
+branch 77 196 26 1 0 1.
+branch 77 196 29 1 0 1.
+branch 78 197 10 1 9 1.
+branch 78 197 12 1 9 1.
+branch 78 197 14 1 9 1.
+branch 78 197 15 1 9 1.
+branch 78 197 17 1 9 1.
+branch 78 197 19 1 9 1.
+branch 78 197 21 1 9 1.
+branch 78 197 22 1 9 1.
+branch 78 197 23 1 9 1.
+branch 78 197 24 1 9 1.
+branch 78 197 25 1 9 1.
+branch 78 197 26 1 9 1.
+branch 78 197 27 1 9 1.
+branch 78 197 28 1 9 1.
+branch 78 197 29 1 9 1.
+branch 78 197 30 1 9 1.

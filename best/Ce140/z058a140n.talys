@@ -1,0 +1,41 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+#avadjustF n 0. 10. -25. 3.
+#rvadjustF n 0. 8. -4. 3.
+#rvadjustF n 8. 12. 7. 2.
+#avadjustF n 12. 25. -30. 5.
+#dispersion n
+#rvadjust n 1.03
+#rvdadjust n 1.03
+#avadjust n 1.02
+#avdadjust n 1.02
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 1.09
+avadjust p 1.09
+gnadjust 58 141 0.98
+gpadjust 58 141 0.98
+#
+# (n,a)
+#
+rvadjust a 1.01
+avadjust a 1.01
+#
+# (n,g)
+#
+gamgamadjust 58 141 0.90
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#
+branch 58 139 8 1 0 1.
+branch 58 139 11 1 0 1.
+branch 58 139 17 1 0 1.
+branch 58 139 18 1 0 1.
+branch 58 139 19 1 0 1.
+branch 58 139 20 1 0 1.

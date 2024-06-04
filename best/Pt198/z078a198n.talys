@@ -1,0 +1,26 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+#
+# (n,a)
+#
+#
+# (n,g)
+#
+gamgamadjust 78 199 0.40                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#
+branch 78 197 10 1 9 1.
+branch 78 197 12 1 9 1.
+branch 78 197 14 1 9 1.
+branch 78 197 15 1 9 1.
+branch 78 197 17 1 9 1.
+branch 78 197 19 1 9 1.
