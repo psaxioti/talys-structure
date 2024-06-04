@@ -1,0 +1,25 @@
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 1.12
+avadjust p 1.12
+#
+# (n,a)
+#
+alphaomp 1
+rvadjust a 1.12
+avadjust a 1.12
+#
+# (n,g)
+#
+gamgamadjust 12  27 0.20                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#

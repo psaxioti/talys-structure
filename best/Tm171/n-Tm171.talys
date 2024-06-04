@@ -1,0 +1,20 @@
+# 2015: Arjan Koning
+# 2017: Natalia Dzysiuk optimization
+#
+# General
+#
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+#
+# (n,a)
+#
+# (n,g)
+#
+gamgamadjust 69 172 0.4                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#

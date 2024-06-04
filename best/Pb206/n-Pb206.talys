@@ -1,0 +1,31 @@
+# Natalia Dzysiuk 2016 optimization
+# General
+#
+ldmodel 1
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 0.8
+gpadjust 81 206 0.85
+gnadjust 81 206 0.85
+#
+rvadjust n 0.99
+gpadjust 82 207 0.95
+gnadjust 82 207 0.95
+#
+#
+# (n,a)
+#
+alphaomp 1
+cstrip a 2.43
+rvadjust a 1.23
+#
+# (n,g)
+#
+gamgamadjust 82 207 1.9
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#

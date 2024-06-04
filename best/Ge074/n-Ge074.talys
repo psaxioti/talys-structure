@@ -1,0 +1,32 @@
+# 2015: Arjan Koning
+# 2017: Natalia Dzysiuk optimization
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+optmodfilen 32 n-Ge074.omp
+#
+# (n,p), (n,2n), (n,np)
+#
+rvadjust p 1.088
+avadjust p 1.088
+gnadjust 32 75 1.07
+gpadjust 32 75 1.07
+#
+# (n,a)
+#
+alphaomp 6
+rvadjust a 1.15
+avadjust a 1.15
+cstrip a 0.3
+cknock a 0.3
+#
+# (n,g)
+#
+gamgamadjust 32  75 1.25
+gnorm 1.9
+sgradjust 32 75 0.6 E1
+Rgamma 3.0                                                        

@@ -1,0 +1,23 @@
+# 2017: Natalia Dzysiuk
+#
+#
+# General
+#
+ldmodel 1
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+# (n,a)
+#
+#
+# (n,g)
+#
+gamgamadjust 64 154 0.75                                                        
+#
+# Other: Isomers, (n,d), (n,t), (n,h) etc.
+#
+
+

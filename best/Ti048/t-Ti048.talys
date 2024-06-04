@@ -1,0 +1,7 @@
+#
+# (t,a)
+#
+rvadjust a 1.10
+avadjust a 1.10
+cknock a 3.1
+cstrip a 3.1

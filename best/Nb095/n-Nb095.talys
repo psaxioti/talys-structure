@@ -1,0 +1,18 @@
+# 2017: Natalia Dzysiuk
+#
+# General
+#
+ldmodel 2
+#
+# (n,tot), (n,el), (n,inl)
+#
+#
+# (n,p), (n,2n), (n,np)
+#
+#
+# (n,a)
+#
+# (n,g)
+#
+gamgamadjust 41 96 2.45
+rgamma 3.8
