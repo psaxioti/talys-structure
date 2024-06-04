@@ -1,0 +1,4 @@
+rvadjustF n 2. 15. 5. 5.
+gamgamadjust 34 77 0.85
+gnadjust 34 77 0.92
+gpadjust 34 77 0.92

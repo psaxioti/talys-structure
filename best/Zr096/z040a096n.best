@@ -1,0 +1,8 @@
+gamgamadjust 40 97 0.40
+rvadjust n 0.98
+avadjust n 0.98
+d1adjust n 0.96
+aadjust 40 97 0.96
+m2constant 1.2
+cstrip a 1.5
+cknock a 1.5
