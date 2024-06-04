@@ -2,8 +2,7 @@ colldamp y
 asys y
 class2 y                                                                        
 maxrot 5                                                                        
-gnorm  30.
-rgamma 2. 2.
+rgamma 2.
 a         94 242  31.11610
 T         94 242   0.41050   0
 E0        94 242  -0.07637   0

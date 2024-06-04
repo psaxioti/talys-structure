@@ -15,8 +15,8 @@ rvadjust a 0.90
 avadjust a 0.90
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 54 131 0.65
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

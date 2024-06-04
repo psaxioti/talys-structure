@@ -5,6 +5,7 @@ ldmodel 2
 #
 # (n,tot), (n,el), (n,inl)
 #
+rvadjust n 1.01
 #
 # (n,p), (n,2n), (n,np)
 #
@@ -13,13 +14,14 @@ gpadjust 63 152 1.04
 #
 # (n,a)
 #
-rvadjust a 1.02
-avadjust a 1.02
+rvadjust a 0.93
+avadjust a 0.93
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 63 152 1.25                                                        
-pshiftadjust 63 151 0.80                                                        
+Pshiftadjust      63 151  0.50
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+s2adjust 61 148 1.5

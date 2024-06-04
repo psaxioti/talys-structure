@@ -20,8 +20,8 @@ cstrip a 0.30
 cknock a 0.30
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 41 94 0.95
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
@@ -29,18 +29,3 @@ cstrip h 2.30
 cknock h 2.30
 cstrip t 0.30
 cknock t 0.30
-branch 41 91 2 1 0 1.
-branch 41 91 10 1 0 1.
-branch 41 91 14 1 0 1.
-branch 41 91 17 1 0 1.
-branch 41 92 14 1 0 1.
-branch 41 92 15 1 0 1.
-branch 41 92 23 1 0 1.
-branch 41 92 26 1 0 1.
-branch 41 93 7 1 0 1.
-branch 41 93 12 1 0 1.
-branch 39 90 11 1 0 1.
-branch 39 90 18 1 0 1.
-branch 39 90 21 1 0 1.
-branch 39 90 26 1 0 1.
-branch 39 90 27 1 0 1.

@@ -1,10 +1,10 @@
 #avadjustF n 0. 4. -10. 2.
 #rvadjustF n 0. 2. -5. 1.
+Pshiftadjust 92 235 -0.8
 colldamp y
 asys y
 maxrot 5
 class2 y
-gnorm     8.
 t         92 236   0.38103   2
 e0        92 236  -0.60121   2
 exmatch   92 236   6.57756   2

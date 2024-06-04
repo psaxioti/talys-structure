@@ -17,17 +17,9 @@ aadjust 77 191 0.85
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 77 192 0.93
 pshiftadjust 77 191 0.60
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 77 191 15 1 3 1.
-branch 77 192 5 1 3 1.
-branch 77 192 10 1 3 1.
-branch 77 192 12 1 3 1.
-branch 77 192 17 1 3 1.
-branch 77 192 18 1 3 1.
-branch 77 192 21 1 3 1.
-branch 77 192 30 1 3 1.

@@ -15,18 +15,16 @@ gpadjust 65 160 1.08
 #
 # (n,a)
 #
-rvadjust a 1.06
-avadjust a 1.06
+rvadjust a 0.99
+avadjust a 0.99
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 65 160 0.95
-pshiftadjust 65 159 0.80
+#pshiftadjust 65 159 0.80
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
 Cstrip t 2.3
 Cknock t 2.3
-branch 65 158 4 1 3 1.
-branch 65 158 6 1 3 1.
-branch 65 158 7 2 3 0.6 0 0.4
+s2adjust 65 158 3.0

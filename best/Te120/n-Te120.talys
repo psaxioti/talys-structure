@@ -16,14 +16,8 @@ gpadjust 52 121 0.92
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 52 121 0.80                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 51 120 11 1 3 1.
-branch 52 119 16 1 0 1.
-branch 52 119 22 1 0 1.
-branch 52 119 24 1 0 1.
-branch 52 119 26 1 0 1.
-branch 52 119 29 1 0 1.

@@ -19,13 +19,11 @@ rvadjust a 0.97
 avadjust a 0.97
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 59 142 0.95                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 59 142 2 1 0 1.
-branch 59 142 15 1 0 1.
-branch 59 142 16 1 0 1.
 cstrip t 2.6                                                                    
 cknock t 2.6                                                                    
+Pshiftadjust 59 141 0.6

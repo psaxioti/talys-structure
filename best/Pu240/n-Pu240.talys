@@ -1,7 +1,6 @@
 #avadjustF n 3. 7. -15. 2.
 class2 y                                                                        
 maxrot 4                                                                        
-gnorm  3.
 fisbar    94 241   5.95000  1
 fishw     94 241   0.70000  1
 class2width   94 241   0.02000  1

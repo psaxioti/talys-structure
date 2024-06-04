@@ -1,9 +1,9 @@
 #avadjustF n 0. 5. -15. 2.
 #avadjustF n 12. 20. 5. 6.
+Pshiftadjust 94 239 -1.0
 optmod 94 239 n-Pu239.omp n                                                   
 class2 y                                                                        
 maxrot 4                                                                        
-gnorm          2.71312
 a         94 240  15.72100
 T         94 240   0.39056   0
 E0        94 240  -0.10141   0

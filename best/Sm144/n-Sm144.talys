@@ -1,11 +1,12 @@
 #
 # General
 #
-ldmodel 2
+ldmodel 1
 m2constant 1.30
 #
 # (n,tot), (n,el), (n,inl)
 #
+rvadjust n 1.010 -0.2 0.2 0. 0.99
 #
 # (n,p), (n,2n), (n,np)
 #
@@ -16,10 +17,13 @@ gpadjust 62 145 1.10
 #
 # (n,a)
 #
+rvadjust a 1.015
+avadjust a 1.015
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 62 145 1.25
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
+s2adjust 62 143 0.5

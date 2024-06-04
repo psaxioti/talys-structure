@@ -13,8 +13,8 @@ ldmodel 2
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 46 108 1.45                                                        
 pshiftadjust 46 107 1.
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.

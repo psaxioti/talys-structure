@@ -14,8 +14,8 @@ rvadjust p 1.04
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 28  62 0.55                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

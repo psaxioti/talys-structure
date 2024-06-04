@@ -17,11 +17,9 @@ rvadjust a 1.04
 avadjust a 1.04
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 52 131 0.25
 pshiftadjust 52 130 0.5
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 52 129 4 2 1 0.7 0 0.3
-branch 52 129 5 2 1 0.7 0 0.3

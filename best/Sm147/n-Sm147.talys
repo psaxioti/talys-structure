@@ -5,6 +5,7 @@ ldmodel 2
 #
 # (n,tot), (n,el), (n,inl)
 #
+rvadjust n 1.015 -0.2 0.2 0. 0.98
 #
 # (n,p), (n,2n), (n,np)
 #
@@ -17,8 +18,8 @@ cknock a 0.50
 cstrip a 0.50
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 62 148 0.90                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

@@ -28,10 +28,9 @@ Cstrip a 0.55
 aadjust       31  72 1.20
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 33 76 1.60 0.10 #t#
 Rgamma 4.
-egradjust       33  76  0.8 E1
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
@@ -39,6 +38,3 @@ Cknock t 1.15
 Cstrip t 1.15
 Cknock h 3.00
 Cstrip h 3.00
-branch 32 75 10 1 0 1.
-branch 32 75 16 1 0 1.
-branch 32 75 3 1 0 1.

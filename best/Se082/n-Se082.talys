@@ -18,14 +18,9 @@ tadjust 34 82 1.35
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 34 83 0.20
 Rgamma 1.4
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 34 81 7 1 1 1.
-branch 34 81 10 1 1 1.
-branch 34 83 3 1 0 1.
-branch 34 83 6 1 0 1.
-branch 34 83 13 1 0 1.

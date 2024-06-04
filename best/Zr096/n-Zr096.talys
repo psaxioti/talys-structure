@@ -25,10 +25,9 @@ cknock a 0.93
 rvadjust a 0.9
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 40 97 0.19
 Rgamma 7.5
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-

@@ -14,8 +14,8 @@ m2constant 1.30
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 64 155 0.55                                                        
 pshiftadjust 64 154 0.60                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.

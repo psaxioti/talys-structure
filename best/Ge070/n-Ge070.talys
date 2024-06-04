@@ -19,8 +19,8 @@ gpadjust 32 71 0.87
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 32 71 0.80
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

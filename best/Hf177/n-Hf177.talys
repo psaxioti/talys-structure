@@ -17,8 +17,8 @@ deformfile  72  n-Hf177.def
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 72 178 0.90                                                        
 pshiftadjust 72 177 0.60                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.

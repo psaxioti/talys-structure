@@ -17,9 +17,7 @@ gpadjust 66 159 1.15
 #
 #
 # (n,g)
-#
-gamgamadjust 66 159 0.95                                                        
-pshiftadjust 66 158 0.40                                                        
+ldmodelCN 1 
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

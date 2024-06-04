@@ -10,20 +10,8 @@ avadjust n 1.0 5. 11. 8. 1.04
 #
 # (n,p), (n,2n), (n,np)
 #
-##rvadjust p 1.02 0.02 #t#
-##avadjust p 1.02 0.02 #t#
-##rvdadjust p 1.02 0.02 #t#
-##avdadjust p 1.02 0.02 #t#
 gnadjust 39 90 1.04 0.05 #t#
 gpadjust 39 90 1.04 0.05 #t#
-##gnadjust 39 90 1.02 0.05 #t#
-##gpadjust 39 90 1.02 0.05 #t#
-##gnadjust 39 89 0.96
-##gpadjust 39 89 0.96
-##gnadjust 38 89 1.10
-##gpadjust 38 89 1.10
-##s2adjust 39 90 0.25
-##s2adjust 39 89 1.30
 #
 # (n,a)
 #
@@ -32,8 +20,8 @@ avadjust a 1.03
 s2adjust 37 86 0.30
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 39 90 1.30 0.20 #t#
 Rgamma 3.
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
@@ -41,10 +29,3 @@ Rgamma 3.
 Cstrip d 2.
 Cstrip t 2.4
 Cknock t 2.4
-branch 39 89 8 2 1 0.8 0 0.2
-branch 37 86 11 1 0 1.
-branch 37 86 12 1 0 1.
-branch 37 86 18 1 0 1.
-branch 37 86 22 1 0 1.
-branch 39 89 17 2 1 0.8 0 0.2
-branch 39 90 5 2 2 0.6 0 0.4

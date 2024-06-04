@@ -22,8 +22,8 @@ Cstrip a 0.5
 Cknock a 0.5
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 32 73 1.00
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

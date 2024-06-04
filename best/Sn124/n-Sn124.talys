@@ -15,20 +15,8 @@ s2adjust 50 124 0.50
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 50 125 0.50                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 50 123 10 1 1 1.
-branch 50 123 15 1 1 1.
-branch 50 123 16 1 1 1.
-branch 50 123 17 1 1 1.
-branch 50 123 19 1 1 1.
-branch 50 123 20 1 1 1.
-branch 50 123 21 1 1 1.
-branch 50 123 22 1 1 1.
-branch 50 123 23 1 1 1.
-branch 50 123 27 1 1 1.
-branch 50 123 28 1 1 1.
-branch 50 123 29 1 1 1.

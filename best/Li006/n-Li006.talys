@@ -13,8 +13,7 @@ ldmodel 2
 #
 #
 # (n,g)
-#
-gamgamadjust  3  7 1.00                                                         
+ldmodelCN 1 
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

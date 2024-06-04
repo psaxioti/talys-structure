@@ -2,7 +2,6 @@ colldamp y
 asys y
 class2 y                                                                        
 maxrot 5                                                                        
-gnorm     6.
 #cwidth 0.10
 T         98 250   0.40709   1
 E0        98 250  -1.67003   1

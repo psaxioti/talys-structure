@@ -15,14 +15,14 @@ gpadjust 57 140 1.10
 #
 # (n,a)
 #
-rvadjust a 1.04
-avadjust a 1.04
+rvadjust a 0.96
+avadjust a 0.96
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 57 140 0.70                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-cstrip t 0.7                                                                    
-cknock t 0.7                                                                    
+cstrip t 1.0                                                                    
+cknock t 1.0                                                                    

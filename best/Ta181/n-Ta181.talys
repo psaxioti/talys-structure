@@ -21,8 +21,8 @@ cknock a 0.8
 cstrip a 0.8
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 73 182 0.62
 pshiftadjust 73 181 0.60
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.

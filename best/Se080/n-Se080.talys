@@ -26,11 +26,8 @@ Cknock a 1.00
 aadjust       32  77 1.10
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 34 81 0.55
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 34 81 7 1 1 1.
-branch 34 81 10 1 1 1.
-branch 34 81 14 1 1 1.

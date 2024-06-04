@@ -26,8 +26,8 @@ cstrip a 0.80
 aadjust 13 28 1.15
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 15  32 1.10                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

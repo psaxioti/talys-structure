@@ -15,15 +15,8 @@ s2adjust 82 204 1.2
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 82 205 0.40                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 82 203 7 1 6 1.
-branch 82 203 10 1 6 1.
-branch 82 203 12 1 6 1.
-branch 82 203 14 1 6 1.
-branch 82 203 16 1 6 1.
-branch 82 203 19 1 6 1.
-branch 82 203 22 1 6 1.

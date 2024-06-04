@@ -2,19 +2,22 @@
 # General
 #
 ldmodel 2
+maxlevelsres    25
 #
 # (n,tot), (n,el), (n,inl)
 #
+rvadjust n 0.99
 #
 # (n,p), (n,2n), (n,np)
 #
 #
 # (n,a)
 #
+rvadjust a 0.88
+avadjust a 0.88
 #
 # (n,g)
-#
-gamgamadjust 71 176 0.47                                                        
+ldmodelCN 1 
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #

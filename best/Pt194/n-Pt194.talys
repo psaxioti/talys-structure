@@ -17,11 +17,8 @@ rvadjust a 1.04
 avadjust a 1.04
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 78 195 3.10                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 78 195 16 1 7 1.
-branch 78 195 29 1 7 1.
-branch 78 195 30 1 7 1.

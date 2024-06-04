@@ -1,12 +1,12 @@
 #avadjustF n 3. 5. -15. 2.
 #avadjustF n 9. 20. 25. 8.
+Pshiftadjust 92 238 -1.0
 maxlevelstar 40
 colldamp y
 asys y
 class2 y
 maxrot 5   
 optmod 92 238 n-U238.omp
-gnorm         21.05812
 a         92 239  29.94213
 T         92 239   0.50497   0
 E0        92 239  -0.35430   0

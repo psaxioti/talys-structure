@@ -13,11 +13,8 @@ ldmodel 2
 #
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 80 197 0.15                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
-branch 80 197 13 1 4 1.
-branch 80 197 26 1 4 1.
-branch 80 197 30 1 4 1.

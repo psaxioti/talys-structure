@@ -2,7 +2,6 @@ colldamp y
 asys y
 class2 y                                                                        
 maxrot 5       
-gnorm     8.
 T         96 244   0.38770   1
 E0        96 244  -0.65944   1
 Exmatch   96 244   6.91910   1

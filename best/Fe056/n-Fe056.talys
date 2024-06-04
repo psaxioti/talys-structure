@@ -5,11 +5,12 @@ ldmodel 2
 #
 # (n,tot), (n,el), (n,inl)
 #
+awdadjust n 1. awdadjust-n.table
 #
 # (n,p), (n,2n), (n,np)
 #
 rvadjust p 0.99
-rvadjust p 0.99
+avadjust p 0.99
 gnadjust 26 57 0.90
 gpadjust 26 57 0.90
 aadjust 25 56 1.12
@@ -22,8 +23,8 @@ cknock a 1.1
 cstrip a 1.1
 #
 # (n,g)
+ldmodelCN 1 
 #
-gamgamadjust 26  57 0.60                                                        
 #
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
