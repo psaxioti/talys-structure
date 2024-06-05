@@ -1,4 +1,4 @@
-Sn    118    n,2n       16    fng_Sn               Sn    117   m           1.320E+00               -       1.320E+00       1.320E+00       1.320E+00
-Sn    118    n,2n       16    fns_7hour            Sn    117   m           9.550E-01               -       9.500E-01       9.500E-01       9.500E-01
-Sn    118    n,p        103   fns_5min             In    118   m           6.690E-03               -       4.930E-03       4.930E-03       4.930E-03
-Sn    118    n,a        107   fng_Sn               Cd    115   g           1.230E-03               -       1.230E-03       1.230E-03       1.230E-03
+Sn   118     n,2n  m  JAEA-FNS-pos7      9.50E-01  1.14E-01
+Sn   118     n,2n  m  FNG-Sn             1.32E+00  3.27E-02
+Sn   118     n,p   m  JAEA-FNS-pos3      4.93E-03  3.45E-04
+Sn   118     n,a   g  FNG-Sn             1.23E-03  2.37E-04

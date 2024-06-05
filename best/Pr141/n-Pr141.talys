@@ -27,3 +27,4 @@ ldmodelCN 1
 cstrip t 2.6                                                                    
 cknock t 2.6                                                                    
 Pshiftadjust 59 141 0.6
+ngfit y

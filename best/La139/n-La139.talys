@@ -26,3 +26,4 @@ ldmodelCN 1
 #
 cstrip t 1.0                                                                    
 cknock t 1.0                                                                    
+ngfit y

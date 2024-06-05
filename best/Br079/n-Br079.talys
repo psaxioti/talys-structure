@@ -28,3 +28,4 @@ ldmodelCN 1
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
 Pshiftadjust 35 79 1.
+ngfit y

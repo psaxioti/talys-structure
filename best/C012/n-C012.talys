@@ -29,3 +29,4 @@ rvadjust t 0.85
 avadjust t 0.85
 cstrip t 0.40
 cknock t 0.40
+ngfit y

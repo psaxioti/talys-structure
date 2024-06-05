@@ -1,10 +1,8 @@
-Hf    180    n,n        4     fng_hafnium          Hf    180   m                   -               -       1.140E-02       1.140E-02       1.140E-02
-Hf    180    n,n        4     fng_heat             Hf    180   m                   -               -       4.410E-02       4.410E-02       4.410E-02
-Hf    180    n,n        4     fns_5min             Hf    180   m                   -               -       1.800E-02       1.800E-02       1.800E-02
-Hf    180    n,2n       16    fng_heat             Hf    179   m           6.290E-01               -               -               -       6.290E-01
-Hf    180    n,2n       16    fns_5min             Hf    179   m           5.420E-01               -       6.050E-02       6.050E-02       6.050E-02
-Hf    180    n,na       22    fng_hafnium          Yb    176   m           1.140E-02               -               -               -       1.140E-02
-Hf    180    n,g        102   fng_hafnium          Hf    181   -           9.280E-03       9.280E-03       9.280E-03       9.280E-03       9.280E-03
-Hf    180    n,p        103   fng_hafnium          Lu    180   -           3.870E-03       3.870E-03       3.870E-03       3.870E-03       3.870E-03
-Hf    180    n,p        103   fng_heat             Lu    180   -           3.850E-03       3.790E-03       3.790E-03       3.790E-03       3.790E-03
-Hf    180    n,p        103   fns_5min             Lu    180   -           1.200E-03       3.520E-03       3.520E-03       3.520E-03       3.520E-03
+Hf   180     n,n   m  FNG-heat           4.41E-02  2.42E-03
+Hf   180     n,n   m  FNG-hafnium        1.14E-02  6.65E-04
+Hf   180     n,n   m  JAEA-FNS-pos3      1.80E-02  1.44E-03
+Hf   180     n,2n  m  JAEA-FNS-pos3      6.05E-02  4.84E-03
+Hf   180     n,g   t  FNG-hafnium        9.28E-03  1.51E-03
+Hf   180     n,p   t  JAEA-FNS-pos3      3.52E-03  2.11E-04
+Hf   180     n,p   t  FNG-hafnium        3.87E-03  9.36E-04
+Hf   180     n,p   t  FNG-heat           3.79E-03  3.00E-04

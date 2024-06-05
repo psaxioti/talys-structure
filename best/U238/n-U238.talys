@@ -1,3 +1,5 @@
+fismodel 1
+ldmodel 1
 #avadjustF n 3. 5. -15. 2.
 #avadjustF n 9. 20. 25. 8.
 Pshiftadjust 92 238 -1.0
@@ -78,3 +80,4 @@ T         92 234   0.91146   2
 E0        92 234  -2.57767   2
 Exmatch   92 234  11.18176   2
 #cwidth 0.01
+ngfit y

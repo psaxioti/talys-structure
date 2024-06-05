@@ -27,3 +27,4 @@ ldmodelCN 1
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
 s2adjust 62 143 0.5
+ngfit y

@@ -1,8 +1,8 @@
 #Esearch 8. 16. 16
-#libinclude 16 jendl4.0
+#libinclude 16 jendl5.0
 #Esearch 0.015 0.1 102
 #libinclude 102 endfb8.0
 #Esearch 8. 16. 103
-#libinclude 103 tendl.2019
-#Esearch 14. 20. 107
-#libinclude 107 jendl4.0
+#libinclude 103 tendl.2021
+#Esearch 8. 20. 107
+#libinclude 107 jendl5.0

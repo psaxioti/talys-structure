@@ -1,4 +1,4 @@
-Sn    120    n,2n       16    fns_7hour            Sn    119   m           5.770E-01               -       4.800E-01       4.800E-01       4.800E-01
-Sn    120    n,p        103   fns_5min             In    120   m           4.910E-03               -       8.330E-03       8.330E-03       8.330E-03
-Sn    120    n,a        107   fng_Sn               Cd    117   m           3.900E-04               -       3.900E-04       3.900E-04       3.900E-04
-Sn    120    n,a        107   fng_Sn               Cd    117   g           3.840E-04               -       3.840E-04       3.840E-04       3.840E-04
+Sn   120     n,2n  m  JAEA-FNS-pos7      4.80E-01  1.01E-01
+Sn   120     n,p   m  JAEA-FNS-pos3      8.33E-03  1.00E-03
+Sn   120     n,a   g  FNG-Sn             3.84E-04  5.32E-05
+Sn   120     n,a   m  FNG-Sn             3.90E-04  6.11E-05

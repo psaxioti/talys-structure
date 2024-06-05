@@ -31,3 +31,4 @@ Rgamma 3.
 # Other: Isomers, (n,d), (n,t), (n,h) etc.
 #
 Pshiftadjust 35 81 1.
+ngfit y

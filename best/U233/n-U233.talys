@@ -1,3 +1,5 @@
+fismodel 1
+ldmodel 1
 #avadjustF n 0. 2. -15. 1.
 #avadjustF n 2. 7. 15. 3.
 #avadjustF n 7. 25. 15. 8.
@@ -31,3 +33,4 @@ T         92 232   0.43725   2
 E0        92 232  -0.93040   2
 Exmatch   92 232   6.61247   2
 #cwidth 0.02
+ngfit y

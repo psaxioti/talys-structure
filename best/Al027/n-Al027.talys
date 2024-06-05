@@ -38,3 +38,4 @@ rvadjust t 1.05
 avadjust t 1.05
 Cstrip h 1.8
 Cknock h 1.8
+ngfit y

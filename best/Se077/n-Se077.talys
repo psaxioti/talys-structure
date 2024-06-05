@@ -29,3 +29,4 @@ ldmodelCN 1
 #
 rvadjust d 1.05
 avadjust d 1.05
+ngfit y

@@ -1,3 +1,2 @@
-Cd    112    n,2n       16    fng_heat             Cd    111   -                   -       7.030E-01               -               -       7.030E-01
-Cd    112    n,2n       16    fng_heat             Cd    111   m           6.890E-01               -       6.830E-01       6.830E-01       6.830E-01
-Cd    112    n,2n       16    fns_5min             Cd    111   m           5.280E-01               -       4.640E-01       4.640E-01       4.640E-01
+Cd   112     n,2n  m  JAEA-FNS-pos3      4.64E-01  2.32E-02
+Cd   112     n,2n  m  FNG-heat           6.83E-01  2.64E-02

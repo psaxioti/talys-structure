@@ -1,3 +1,5 @@
+fismodel 1
+ldmodel 1
 #avadjustF n 0. 4. -10. 2.
 #rvadjustF n 0. 2. -5. 1.
 Pshiftadjust 92 235 -0.8
@@ -30,3 +32,4 @@ e0        92 234  -0.77570   2
 exmatch   92 234   6.65837   2
 class2width   92 234   0.10000  1
 #cwidth 0.02
+ngfit y

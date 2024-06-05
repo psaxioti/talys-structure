@@ -1,3 +1,5 @@
+fismodel 1
+ldmodel 1
 colldamp y
 asys y
 class2 y
@@ -55,3 +57,4 @@ fisbar    92 235   5.60000  2
 #T         92 233   1.02073   2
 #E0        92 233  -5.44950   2
 #Exmatch   92 233  13.46587   2
+ngfit y

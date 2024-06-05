@@ -1,3 +1,5 @@
+fismodel 1
+ldmodel 1
 colldamp y
 asys y
 class2 y                                                                        
@@ -49,3 +51,4 @@ fisbar    97 248   3.81280  2
 fishw     97 248   0.54000  2
 Rtransmom   97 248   0.60000  2
 #cwidth 0.4
+ngfit y

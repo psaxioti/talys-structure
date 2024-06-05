@@ -1,7 +1,7 @@
 projectile n
 element W
 mass 182
-library jendl4.0
+library jendl5.0
 norm mt=2 width=3.0
 norm mt=4 width=7.0
 norm mt=51 width=7.0

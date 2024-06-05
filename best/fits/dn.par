@@ -1,0 +1,9095 @@
+projectile d
+element    ag
+mass       107
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94181
+awdadjust    d    0.98631
+rvadjust     n    1.04725
+gadjust       48 109    0.90311
+gadjust       48 108    0.86946
+cbreak       n    1.13903
+#####
+projectile d
+element    ag
+mass       109
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.85385
+awdadjust    d    0.98631
+rvadjust     n    1.02756
+gadjust       48 111    0.88689
+gadjust       48 110    0.87821
+cbreak       n    0.96422
+#####
+projectile d
+element    al
+mass       027
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.04093
+gadjust       14  29    0.86947
+gadjust       14  28    0.77571
+cbreak       n    1.12813
+#####
+projectile d
+element    as
+mass       075
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94443
+awdadjust    d    0.99060
+rvadjust     n    0.96883
+gadjust       34  77    0.93081
+gadjust       34  76    1.11284
+cbreak       n    0.51165
+#####
+projectile d
+element    au
+mass       197
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00488
+awdadjust    d    1.00696
+rvadjust     n    1.00602
+gadjust       80 199    1.02030
+gadjust       80 198    1.19904
+cbreak       n    1.15759
+#####
+projectile d
+element    b
+mass       010
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98296
+gadjust        6  12    1.13362
+gadjust        6  11    1.19843
+cbreak       n    0.72413
+#####
+projectile d
+element    b
+mass       011
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04079
+awdadjust    d    1.01452
+rvadjust     n    1.02852
+gadjust        6  13    1.07847
+gadjust        6  12    0.88293
+cbreak       n    1.12613
+#####
+projectile d
+element    bi
+mass       209
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95633
+awdadjust    d    1.00580
+rvadjust     n    1.02461
+gadjust       84 211    0.99701
+gadjust       84 210    1.24708
+cbreak       n    0.45012
+#####
+projectile d
+element    br
+mass       079
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95562
+awdadjust    d    0.78396
+rvadjust     n    0.97130
+gadjust       36  81    0.93657
+gadjust       36  80    1.08740
+cbreak       n    0.89159
+#####
+projectile d
+element    br
+mass       081
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90921
+awdadjust    d    0.98814
+rvadjust     n    0.96209
+gadjust       36  83    1.00050
+gadjust       36  82    1.10930
+cbreak       n    0.84907
+#####
+projectile d
+element    c
+mass       012
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.79107
+gadjust        7  14    1.26653
+gadjust        7  13    1.05070
+cbreak       n    0.48618
+#####
+projectile d
+element    c
+mass       013
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03669
+awdadjust    d    0.99673
+rvadjust     n    0.97285
+gadjust        7  15    0.96794
+gadjust        7  14    0.95722
+cbreak       n    0.92531
+#####
+projectile d
+element    c
+mass       014
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.17436
+awdadjust    d    1.01186
+rvadjust     n    1.17047
+gadjust        7  16    0.98975
+gadjust        7  15    0.76728
+cbreak       n    0.41421
+#####
+projectile d
+element    ca
+mass       042
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95103
+rvadjust     n    0.97188
+gadjust       21  44    0.94916
+gadjust       21  43    1.25043
+cbreak       n    0.39191
+#####
+projectile d
+element    ca
+mass       043
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96524
+rvadjust     n    0.98431
+gadjust       21  45    1.07814
+gadjust       21  44    1.17764
+cbreak       n    0.75393
+#####
+projectile d
+element    ca
+mass       048
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03713
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       21  50    1.06096
+gadjust       21  49    1.13021
+cbreak       n    0.79445
+#####
+projectile d
+element    cd
+mass       110
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95821
+awdadjust    d    1.00740
+rvadjust     n    0.99110
+gadjust       49 112    0.99917
+gadjust       49 111    1.12762
+cbreak       n    0.88329
+#####
+projectile d
+element    cd
+mass       114
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96699
+awdadjust    d    1.01835
+rvadjust     n    0.99955
+gadjust       49 116    0.99566
+gadjust       49 115    1.00292
+cbreak       n    1.10628
+#####
+projectile d
+element    cd
+mass       116
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98308
+awdadjust    d    1.00696
+rvadjust     n    1.00602
+gadjust       49 118    1.02205
+gadjust       49 117    1.11956
+cbreak       n    1.06414
+#####
+projectile d
+element    ce
+mass       142
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94962
+awdadjust    d    0.98631
+rvadjust     n    1.03875
+gadjust       59 144    0.82805
+gadjust       59 143    0.94927
+cbreak       n    0.29617
+#####
+projectile d
+element    cf
+mass       249
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94144
+rvadjust     n    0.96479
+gadjust       99 251    0.98834
+gadjust       99 250    1.03240
+cbreak       n  8.24542E-02
+#####
+projectile d
+element    cr
+mass       050
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96751
+awdadjust    d    1.00718
+rvadjust     n    0.98285
+gadjust       25  52    0.72280
+gadjust       25  51    1.12634
+cbreak       n    0.65039
+#####
+projectile d
+element    cr
+mass       052
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92354
+awdadjust    d    0.55099
+rvadjust     n    0.86628
+gadjust       25  54    1.06572
+gadjust       25  53    1.00985
+cbreak       n    1.89113
+#####
+projectile d
+element    cr
+mass       053
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04289
+awdadjust    d    0.99673
+rvadjust     n    0.96860
+gadjust       25  55    0.76880
+gadjust       25  54    1.01850
+cbreak       n    0.22731
+#####
+projectile d
+element    cs
+mass       133
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90897
+awdadjust    d    0.77283
+rvadjust     n    0.96164
+gadjust       56 135    0.99841
+gadjust       56 134    1.19949
+cbreak       n    1.05607
+#####
+projectile d
+element    cu
+mass       063
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97107
+awdadjust    d    0.98631
+rvadjust     n    1.03901
+gadjust       30  65    0.92386
+gadjust       30  64    0.89515
+cbreak       n    1.00277
+#####
+projectile d
+element    cu
+mass       065
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.94730
+rvadjust     n    0.99940
+gadjust       30  67    0.73762
+gadjust       30  66    1.05788
+cbreak       n    2.51895
+#####
+projectile d
+element    er
+mass       167
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92707
+awdadjust    d    0.99662
+rvadjust     n    0.98873
+gadjust       69 169    0.99757
+gadjust       69 168    1.23761
+cbreak       n    0.46422
+#####
+projectile d
+element    eu
+mass       151
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.02296
+gadjust       64 153    0.87744
+gadjust       64 152    0.91352
+cbreak       n    0.26593
+#####
+projectile d
+element    eu
+mass       153
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.03804
+gadjust       64 155    0.89662
+gadjust       64 154    0.88609
+cbreak       n    0.53814
+#####
+projectile d
+element    fe
+mass       054
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97676
+awdadjust    d    0.98631
+rvadjust     n    1.04107
+gadjust       27  56    0.65684
+gadjust       27  55    1.07777
+cbreak       n    0.22020
+#####
+projectile d
+element    fe
+mass       056
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.91092
+awdadjust    d    0.92109
+rvadjust     n    1.06299
+gadjust       27  58    0.95124
+gadjust       27  57    0.84346
+cbreak       n    1.42129
+#####
+projectile d
+element    ga
+mass       069
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04142
+awdadjust    d    0.99673
+rvadjust     n    0.97377
+gadjust       32  71    1.00007
+gadjust       32  70    1.01690
+cbreak       n    0.90335
+#####
+projectile d
+element    gd
+mass       160
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98457
+awdadjust    d    1.03348
+rvadjust     n    0.99821
+gadjust       65 162    0.97358
+gadjust       65 161    1.05374
+cbreak       n    1.04175
+#####
+projectile d
+element    ge
+mass       070
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       33  72    0.78461
+gadjust       33  71    1.10230
+cbreak       n    0.17881
+#####
+projectile d
+element    ge
+mass       074
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94009
+awdadjust    d    1.00580
+rvadjust     n    1.00503
+gadjust       33  76    1.00064
+gadjust       33  75    1.11001
+cbreak       n    0.98868
+#####
+projectile d
+element    hf
+mass       174
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05237
+awdadjust    d    1.05818
+rvadjust     n    1.01479
+gadjust       73 176    1.01958
+gadjust       73 175    1.04128
+cbreak       n    0.78501
+#####
+projectile d
+element    ho
+mass       165
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96197
+awdadjust    d    0.99452
+rvadjust     n    0.98719
+gadjust       68 167    0.99761
+gadjust       68 166    1.22213
+cbreak       n    0.67734
+#####
+projectile d
+element    i
+mass       127
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96676
+awdadjust    d    1.03172
+rvadjust     n    0.98202
+gadjust       54 129    0.96725
+gadjust       54 128    1.07780
+cbreak       n    1.36121
+#####
+projectile d
+element    kr
+mass       078
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96106
+awdadjust    d    0.99108
+rvadjust     n    0.97998
+gadjust       37  80    0.90049
+gadjust       37  79    1.26069
+cbreak       n    0.37355
+#####
+projectile d
+element    kr
+mass       080
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96645
+awdadjust    d    1.00944
+rvadjust     n    0.98905
+gadjust       37  82    0.98008
+gadjust       37  81    1.16402
+cbreak       n    0.90529
+#####
+projectile d
+element    li
+mass       006
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.19698
+awdadjust    d    0.52884
+rvadjust     n    0.99940
+gadjust        4   8    0.83720
+gadjust        4   7    1.07199
+cbreak       n    1.17750
+#####
+projectile d
+element    li
+mass       007
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01101
+awdadjust    d    1.29616
+rvadjust     n    0.79971
+gadjust        4   9    0.94936
+gadjust        4   8    1.19942
+cbreak       n    1.36307
+#####
+projectile d
+element    mo
+mass       092
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92515
+awdadjust    d    0.93595
+rvadjust     n    1.11091
+gadjust       43  94    0.71106
+gadjust       43  93    0.82592
+cbreak       n    1.04068
+#####
+projectile d
+element    mo
+mass       094
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95210
+awdadjust    d    1.00371
+rvadjust     n    0.97327
+gadjust       43  96    1.00022
+gadjust       43  95    1.13975
+cbreak       n    0.79779
+#####
+projectile d
+element    mo
+mass       096
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.77240
+rvadjust     n    0.99940
+gadjust       43  98    0.82454
+gadjust       43  97    0.84258
+cbreak       n    1.17018
+#####
+projectile d
+element    mo
+mass       098
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90377
+awdadjust    d    0.90513
+rvadjust     n    0.99792
+gadjust       43 100    0.96175
+gadjust       43  99    1.11953
+cbreak       n    1.15014
+#####
+projectile d
+element    mo
+mass       100
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.25265
+awdadjust    d    1.02212
+rvadjust     n    1.14483
+gadjust       43 102    1.05642
+gadjust       43 101    1.08206
+cbreak       n    1.28384
+#####
+projectile d
+element    n
+mass       014
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93419
+awdadjust    d    0.96552
+rvadjust     n    1.06933
+gadjust        8  16    1.02871
+gadjust        8  15    0.91314
+cbreak       n    0.64864
+#####
+projectile d
+element    nb
+mass       093
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92843
+awdadjust    d    0.98631
+rvadjust     n    1.01693
+gadjust       42  95    0.89490
+gadjust       42  94    0.82364
+cbreak       n    1.25286
+#####
+projectile d
+element    ne
+mass       020
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98114
+gadjust       11  22    1.08395
+gadjust       11  21    1.16679
+cbreak       n    0.76632
+#####
+projectile d
+element    ni
+mass       058
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97453
+awdadjust    d    0.98631
+rvadjust     n    1.04165
+gadjust       29  60    0.50632
+gadjust       29  59    0.98627
+cbreak       n    0.28662
+#####
+projectile d
+element    ni
+mass       060
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01986
+awdadjust    d    0.99673
+rvadjust     n    0.97915
+gadjust       29  62    0.57808
+gadjust       29  61    1.01900
+cbreak       n    0.11448
+#####
+projectile d
+element    ni
+mass       061
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.08661
+awdadjust    d    1.01186
+rvadjust     n    1.06192
+gadjust       29  63    1.03060
+gadjust       29  62    1.01963
+cbreak       n    0.66744
+#####
+projectile d
+element    ni
+mass       064
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.88130
+awdadjust    d    0.98631
+rvadjust     n    1.06160
+gadjust       29  66    0.81185
+gadjust       29  65    0.67170
+cbreak       n    1.56896
+#####
+projectile d
+element    np
+mass       237
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01811
+awdadjust    d    1.02762
+rvadjust     n    0.98427
+gadjust       94 239    1.04417
+gadjust       94 238    0.97018
+cbreak       n    0.67983
+#####
+projectile d
+element    o
+mass       016
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05214
+awdadjust    d    1.03578
+rvadjust     n    1.20917
+gadjust        9  18    0.98998
+gadjust        9  17    1.09005
+cbreak       n    1.43300
+#####
+projectile d
+element    os
+mass       192
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02763
+awdadjust    d    0.99673
+rvadjust     n    0.95276
+gadjust       77 194    0.89483
+gadjust       77 193    1.00672
+cbreak       n    0.18225
+#####
+projectile d
+element    pb
+mass       204
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92803
+awdadjust    d    0.98631
+rvadjust     n    1.00912
+gadjust       83 206    0.94368
+gadjust       83 205    0.91015
+cbreak       n    1.21691
+#####
+projectile d
+element    pb
+mass       206
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95968
+rvadjust     n    0.99940
+gadjust       83 208    0.89131
+gadjust       83 207    1.02596
+cbreak       n    0.78794
+#####
+projectile d
+element    pd
+mass       110
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97980
+awdadjust    d    1.00696
+rvadjust     n    1.00602
+gadjust       47 112    1.03298
+gadjust       47 111    1.10805
+cbreak       n    1.08337
+#####
+projectile d
+element    pr
+mass       141
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96151
+rvadjust     n    1.04145
+gadjust       60 143    0.87959
+gadjust       60 142    0.89923
+cbreak       n    0.46084
+#####
+projectile d
+element    pt
+mass       194
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.88677
+awdadjust    d    0.98631
+rvadjust     n    1.00343
+gadjust       79 196    0.84375
+gadjust       79 195    0.96998
+cbreak       n    0.61861
+#####
+projectile d
+element    pt
+mass       198
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98170
+awdadjust    d    0.98631
+rvadjust     n    1.01224
+gadjust       79 200    0.92235
+gadjust       79 199    0.94839
+cbreak       n    1.04043
+#####
+projectile d
+element    pu
+mass       239
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02264
+awdadjust    d    0.95692
+rvadjust     n    0.96046
+gadjust       95 241    1.08985
+gadjust       95 240    1.02627
+cbreak       n    1.69013
+#####
+projectile d
+element    pu
+mass       241
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94821
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 243    1.36069
+gadjust       95 242    1.00678
+cbreak       n    1.45205
+#####
+projectile d
+element    pu
+mass       242
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.86216
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 244    2.78145
+gadjust       95 243    1.00670
+cbreak       n    5.92298
+#####
+projectile d
+element    rh
+mass       103
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.08919
+awdadjust    d    1.01186
+rvadjust     n    1.06699
+gadjust       46 105    1.02491
+gadjust       46 104    1.07802
+cbreak       n    0.37413
+#####
+projectile d
+element    sb
+mass       121
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97492
+awdadjust    d    0.98631
+rvadjust     n    1.01908
+gadjust       52 123    0.90768
+gadjust       52 122    0.91604
+cbreak       n    1.04159
+#####
+projectile d
+element    sb
+mass       123
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97264
+awdadjust    d    0.98631
+rvadjust     n    1.01817
+gadjust       52 125    0.90659
+gadjust       52 124    0.91662
+cbreak       n    1.05488
+#####
+projectile d
+element    sc
+mass       045
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96359
+awdadjust    d    1.00580
+rvadjust     n    0.93615
+gadjust       22  47    1.00207
+gadjust       22  46    1.06717
+cbreak       n    1.38588
+#####
+projectile d
+element    se
+mass       074
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01190
+awdadjust    d    0.95705
+rvadjust     n    0.97389
+gadjust       35  76    0.66613
+gadjust       35  75    1.07777
+cbreak       n    0.21535
+#####
+projectile d
+element    se
+mass       076
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94557
+awdadjust    d    1.00272
+rvadjust     n    0.98021
+gadjust       35  78    1.00055
+gadjust       35  77    1.15866
+cbreak       n    0.85269
+#####
+projectile d
+element    se
+mass       080
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97527
+awdadjust    d    0.79698
+rvadjust     n    0.97961
+gadjust       35  82    1.00037
+gadjust       35  81    1.08239
+cbreak       n    1.23457
+#####
+projectile d
+element    se
+mass       082
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95428
+awdadjust    d    0.97499
+rvadjust     n    0.96528
+gadjust       35  84    1.00184
+gadjust       35  83    1.11730
+cbreak       n    0.72734
+#####
+projectile d
+element    sn
+mass       118
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95937
+awdadjust    d    1.00580
+rvadjust     n    1.00085
+gadjust       51 120    0.99889
+gadjust       51 119    1.11548
+cbreak       n    0.86260
+#####
+projectile d
+element    sn
+mass       120
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96748
+awdadjust    d    0.98631
+rvadjust     n    1.02431
+gadjust       51 122    0.93271
+gadjust       51 121    0.95943
+cbreak       n    0.97119
+#####
+projectile d
+element    sn
+mass       124
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97756
+awdadjust    d    0.98631
+rvadjust     n    1.00724
+gadjust       51 126    0.92550
+gadjust       51 125    0.92006
+cbreak       n    1.10308
+#####
+projectile d
+element    ta
+mass       181
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.08707
+awdadjust    d    0.99673
+rvadjust     n    0.99229
+gadjust       74 183    0.91816
+gadjust       74 182    1.00747
+cbreak       n    0.43588
+#####
+projectile d
+element    tb
+mass       159
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96181
+rvadjust     n    0.99103
+gadjust       66 161    0.98947
+gadjust       66 160    1.14126
+cbreak       n    0.24181
+#####
+projectile d
+element    te
+mass       120
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95099
+awdadjust    d    0.99621
+rvadjust     n    0.94471
+gadjust       53 122    0.90357
+gadjust       53 121    1.16369
+cbreak       n    0.62533
+#####
+projectile d
+element    te
+mass       122
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96281
+awdadjust    d    0.98631
+rvadjust     n    1.02234
+gadjust       53 124    0.83185
+gadjust       53 123    0.94776
+cbreak       n    0.52872
+#####
+projectile d
+element    te
+mass       123
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.07248
+awdadjust    d    0.99673
+rvadjust     n    0.99320
+gadjust       53 125    0.89994
+gadjust       53 124    1.06966
+cbreak       n    0.50072
+#####
+projectile d
+element    te
+mass       124
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94373
+awdadjust    d    0.94879
+rvadjust     n    1.00757
+gadjust       53 126    0.93380
+gadjust       53 125    0.97676
+cbreak       n    1.32207
+#####
+projectile d
+element    te
+mass       126
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99690
+awdadjust    d    0.97683
+rvadjust     n    0.97975
+gadjust       53 128    0.94406
+gadjust       53 127    1.08567
+cbreak       n    1.40097
+#####
+projectile d
+element    te
+mass       128
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95466
+awdadjust    d    0.98631
+rvadjust     n    1.01022
+gadjust       53 130    0.88586
+gadjust       53 129    0.92458
+cbreak       n    1.16600
+#####
+projectile d
+element    te
+mass       130
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.86419
+awdadjust    d    0.98631
+rvadjust     n    1.07128
+gadjust       53 132    0.87130
+gadjust       53 131    0.88084
+cbreak       n    1.31928
+#####
+projectile d
+element    th
+mass       232
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       91 234    1.01624
+gadjust       91 233    1.03946
+cbreak       n    0.34630
+#####
+projectile d
+element    ti
+mass       047
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96052
+rvadjust     n    0.99940
+gadjust       23  49    0.81218
+gadjust       23  48    1.07711
+cbreak       n    0.86678
+#####
+projectile d
+element    ti
+mass       048
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.86941
+awdadjust    d    1.00580
+rvadjust     n    0.92456
+gadjust       23  50    1.00191
+gadjust       23  49    0.78505
+cbreak       n    1.38234
+#####
+projectile d
+element    tl
+mass       203
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03317
+awdadjust    d    1.03726
+rvadjust     n    1.01229
+gadjust       82 205    0.93379
+gadjust       82 204    0.98063
+cbreak       n    1.11617
+#####
+projectile d
+element    tm
+mass       169
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99317
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       70 171    1.01198
+gadjust       70 170    1.20158
+cbreak       n    0.24384
+#####
+projectile d
+element    u
+mass       233
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99690
+awdadjust    d    0.97683
+rvadjust     n    0.95476
+gadjust       93 235    0.80757
+gadjust       93 234    1.12700
+cbreak       n    0.52297
+#####
+projectile d
+element    u
+mass       234
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 236    1.01595
+gadjust       93 235    1.03884
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       235
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01811
+awdadjust    d    1.02762
+rvadjust     n    0.98427
+gadjust       93 237    1.04491
+gadjust       93 236    0.96976
+cbreak       n    0.67983
+#####
+projectile d
+element    u
+mass       236
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 238    1.01567
+gadjust       93 237    1.03819
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       238
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99896
+awdadjust    d    0.95595
+rvadjust     n    1.03265
+gadjust       93 240    1.01811
+gadjust       93 239    1.04468
+cbreak       n    0.35176
+#####
+projectile d
+element    v
+mass       051
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92002
+awdadjust    d    0.98631
+rvadjust     n    1.02978
+gadjust       24  53    0.77393
+gadjust       24  52    0.67821
+cbreak       n    2.09312
+#####
+projectile d
+element    w
+mass       186
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93362
+awdadjust    d    0.97852
+rvadjust     n    0.97385
+gadjust       75 188    0.99725
+gadjust       75 187    1.23815
+cbreak       n    0.69804
+#####
+projectile d
+element    y
+mass       089
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96490
+awdadjust    d    0.98631
+rvadjust     n    1.02869
+gadjust       40  91    0.80543
+gadjust       40  90    0.89942
+cbreak       n    0.44119
+#####
+projectile d
+element    yb
+mass       176
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97633
+awdadjust    d    0.98631
+rvadjust     n    1.02717
+gadjust       71 178    0.93242
+gadjust       71 177    0.93377
+cbreak       n    0.85731
+#####
+projectile d
+element    zn
+mass       064
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95910
+rvadjust     n    0.99940
+gadjust       31  66    0.77021
+gadjust       31  65    1.13230
+cbreak       n    0.16723
+#####
+projectile d
+element    zn
+mass       066
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95471
+rvadjust     n    0.99940
+gadjust       31  68    0.73006
+gadjust       31  67    1.01510
+cbreak       n  7.95600E-02
+#####
+projectile d
+element    zn
+mass       068
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.90491
+rvadjust     n    0.99940
+gadjust       31  70    0.62648
+gadjust       31  69    0.87396
+cbreak       n    0.62904
+#####
+projectile d
+element    zr
+mass       090
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95722
+awdadjust    d    1.00096
+rvadjust     n    0.96383
+gadjust       41  92    1.01969
+gadjust       41  91    1.07235
+cbreak       n    1.02425
+#####
+projectile d
+element    zr
+mass       094
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99579
+awdadjust    d    1.01175
+rvadjust     n    0.87990
+gadjust       41  96    0.78661
+gadjust       41  95    1.10782
+cbreak       n    0.48480
+#####
+projectile d
+element    zr
+mass       096
+ldmodel 1
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95554
+rvadjust     n    0.99940
+gadjust       41  98    0.80330
+gadjust       41  97    1.05710
+cbreak       n    0.47674
+#####
+projectile d
+element    ag
+mass       107
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96234
+rvadjust     n    1.03556
+gadjust       48 109    0.93862
+gadjust       48 108    0.86310
+cbreak       n    0.72935
+#####
+projectile d
+element    ag
+mass       109
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.83997
+rvadjust     n    0.99675
+gadjust       48 111    1.06028
+gadjust       48 110    1.15234
+cbreak       n    0.87876
+#####
+projectile d
+element    al
+mass       027
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97080
+awdadjust    d    0.98631
+rvadjust     n    1.02862
+gadjust       14  29    0.85894
+gadjust       14  28    0.80320
+cbreak       n    1.19717
+#####
+projectile d
+element    as
+mass       075
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97598
+gadjust       34  77    1.02287
+gadjust       34  76    1.14468
+cbreak       n    0.57760
+#####
+projectile d
+element    au
+mass       197
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97352
+awdadjust    d    1.05001
+rvadjust     n    0.97435
+gadjust       80 199    0.95147
+gadjust       80 198    1.08759
+cbreak       n    1.12773
+#####
+projectile d
+element    b
+mass       010
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03638
+awdadjust    d    0.95729
+rvadjust     n    0.92909
+gadjust        6  12    1.04091
+gadjust        6  11    1.22075
+cbreak       n    0.51706
+#####
+projectile d
+element    b
+mass       011
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96296
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust        6  13    1.26787
+gadjust        6  12    1.03116
+cbreak       n    0.94567
+#####
+projectile d
+element    bi
+mass       209
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95577
+awdadjust    d    1.00580
+rvadjust     n    0.98964
+gadjust       84 211    0.99701
+gadjust       84 210    1.26492
+cbreak       n  8.69823E-02
+#####
+projectile d
+element    br
+mass       079
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.91830
+rvadjust     n    0.95170
+gadjust       36  81    1.04665
+gadjust       36  80    1.15163
+cbreak       n    0.68082
+#####
+projectile d
+element    br
+mass       081
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.88463
+rvadjust     n    0.99350
+gadjust       36  83    1.01062
+gadjust       36  82    1.14274
+cbreak       n    0.16655
+#####
+projectile d
+element    c
+mass       012
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00228
+awdadjust    d    0.96393
+rvadjust     n    1.01542
+gadjust        7  14    1.10543
+gadjust        7  13    1.09658
+cbreak       n    0.33754
+#####
+projectile d
+element    c
+mass       013
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03496
+awdadjust    d    0.99673
+rvadjust     n    0.97284
+gadjust        7  15    0.98943
+gadjust        7  14    0.94538
+cbreak       n    0.85407
+#####
+projectile d
+element    c
+mass       014
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01039
+awdadjust    d    0.96873
+rvadjust     n    1.03158
+gadjust        7  16    0.95583
+gadjust        7  15    0.80916
+cbreak       n    0.60078
+#####
+projectile d
+element    ca
+mass       042
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05066
+awdadjust    d    0.98762
+rvadjust     n    1.15419
+gadjust       21  44    0.80903
+gadjust       21  43    1.07022
+cbreak       n  5.09577E-02
+#####
+projectile d
+element    ca
+mass       043
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.84712
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       21  45    1.46737
+gadjust       21  44    0.94570
+cbreak       n    1.51271
+#####
+projectile d
+element    ca
+mass       048
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96620
+rvadjust     n    0.95425
+gadjust       21  50    1.17398
+gadjust       21  49    1.19270
+cbreak       n    0.73155
+#####
+projectile d
+element    cd
+mass       110
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02059
+awdadjust    d    0.99673
+rvadjust     n    0.97029
+gadjust       49 112    0.94696
+gadjust       49 111    1.00355
+cbreak       n    0.65132
+#####
+projectile d
+element    cd
+mass       114
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.95855
+gadjust       49 116    1.05452
+gadjust       49 115    1.12432
+cbreak       n    0.95952
+#####
+projectile d
+element    cd
+mass       116
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.07358
+gadjust       49 118    0.93558
+gadjust       49 117    0.87044
+cbreak       n    0.73712
+#####
+projectile d
+element    ce
+mass       142
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95593
+awdadjust    d    0.96501
+rvadjust     n    0.97165
+gadjust       59 144    0.90149
+gadjust       59 143    1.09204
+cbreak       n  6.69354E-02
+#####
+projectile d
+element    cf
+mass       249
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.05945
+gadjust       99 251    0.99822
+gadjust       99 250    1.04366
+cbreak       n    1.09012
+#####
+projectile d
+element    cr
+mass       050
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99690
+awdadjust    d    0.97683
+rvadjust     n    0.95673
+gadjust       25  52    0.68302
+gadjust       25  51    1.14264
+cbreak       n  1.30228E-02
+#####
+projectile d
+element    cr
+mass       052
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92319
+awdadjust    d    0.89311
+rvadjust     n    1.12074
+gadjust       25  54    0.74220
+gadjust       25  53    0.86514
+cbreak       n    1.29375
+#####
+projectile d
+element    cr
+mass       053
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       25  55    0.80657
+gadjust       25  54    1.03423
+cbreak       n    0.14846
+#####
+projectile d
+element    cs
+mass       133
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94595
+awdadjust    d    0.98631
+rvadjust     n    1.04388
+gadjust       56 135    0.89687
+gadjust       56 134    0.90316
+cbreak       n    0.90514
+#####
+projectile d
+element    cu
+mass       063
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01063
+awdadjust    d    0.96730
+rvadjust     n    1.04040
+gadjust       30  65    0.99956
+gadjust       30  64    0.83441
+cbreak       n    0.88320
+#####
+projectile d
+element    cu
+mass       065
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94620
+awdadjust    d    0.89975
+rvadjust     n    1.04796
+gadjust       30  67    0.83348
+gadjust       30  66    0.92063
+cbreak       n    3.45469
+#####
+projectile d
+element    er
+mass       167
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94385
+rvadjust     n    0.99481
+gadjust       69 169    0.99955
+gadjust       69 168    1.18537
+cbreak       n    0.24701
+#####
+projectile d
+element    eu
+mass       151
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00405
+awdadjust    d    0.95856
+rvadjust     n    1.02263
+gadjust       64 153    0.97429
+gadjust       64 152    1.09171
+cbreak       n    0.23024
+#####
+projectile d
+element    eu
+mass       153
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.02027
+gadjust       64 155    0.90259
+gadjust       64 154    0.91259
+cbreak       n    0.44961
+#####
+projectile d
+element    fe
+mass       054
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97474
+awdadjust    d    0.98631
+rvadjust     n    1.03159
+gadjust       27  56    0.74061
+gadjust       27  55    0.99703
+cbreak       n    0.40677
+#####
+projectile d
+element    fe
+mass       056
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.92537
+rvadjust     n    1.07147
+gadjust       27  58    0.99942
+gadjust       27  57    0.72376
+cbreak       n    1.23677
+#####
+projectile d
+element    ga
+mass       069
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97763
+gadjust       32  71    1.23134
+gadjust       32  70    1.15839
+cbreak       n    0.95511
+#####
+projectile d
+element    gd
+mass       160
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.97368
+rvadjust     n    1.00700
+gadjust       65 162    0.91400
+gadjust       65 161    0.91195
+cbreak       n    0.67241
+#####
+projectile d
+element    ge
+mass       070
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95609
+awdadjust    d    0.98772
+rvadjust     n    0.98628
+gadjust       33  72    0.89020
+gadjust       33  71    1.16674
+cbreak       n    0.19081
+#####
+projectile d
+element    ge
+mass       074
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98981
+gadjust       33  76    1.04852
+gadjust       33  75    1.14254
+cbreak       n    0.62089
+#####
+projectile d
+element    hf
+mass       174
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05506
+awdadjust    d    0.99673
+rvadjust     n    0.97052
+gadjust       73 176    0.89551
+gadjust       73 175    1.04604
+cbreak       n    0.61165
+#####
+projectile d
+element    ho
+mass       165
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01978
+awdadjust    d    0.99673
+rvadjust     n    0.99403
+gadjust       68 167    0.94409
+gadjust       68 166    1.03510
+cbreak       n    0.49191
+#####
+projectile d
+element    i
+mass       127
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99475
+awdadjust    d    0.98068
+rvadjust     n    0.99138
+gadjust       54 129    1.02365
+gadjust       54 128    1.10638
+cbreak       n    1.94434
+#####
+projectile d
+element    kr
+mass       078
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95917
+rvadjust     n    0.99419
+gadjust       37  80    1.05865
+gadjust       37  79    1.35142
+cbreak       n    0.37117
+#####
+projectile d
+element    kr
+mass       080
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    1.00441
+gadjust       37  82    1.09911
+gadjust       37  81    1.20872
+cbreak       n    0.73579
+#####
+projectile d
+element    li
+mass       006
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.10460
+rvadjust     n    0.72522
+gadjust        4   8    1.09304
+gadjust        4   7    1.19977
+cbreak       n    0.63483
+#####
+projectile d
+element    li
+mass       007
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00000
+awdadjust    d    1.00000
+rvadjust     n    1.00000
+gadjust        4   9    1.00000
+gadjust        4   8    1.00000
+cbreak       n    1.00000
+#####
+projectile d
+element    mo
+mass       092
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94190
+awdadjust    d    0.92271
+rvadjust     n    0.89770
+gadjust       43  94    1.00447
+gadjust       43  93    1.12584
+cbreak       n    1.11507
+#####
+projectile d
+element    mo
+mass       094
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98668
+gadjust       43  96    1.04165
+gadjust       43  95    1.14539
+cbreak       n    0.61514
+#####
+projectile d
+element    mo
+mass       096
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.73756
+awdadjust    d    0.91694
+rvadjust     n    1.01878
+gadjust       43  98    0.99970
+gadjust       43  97    1.45759
+cbreak       n    0.48036
+#####
+projectile d
+element    mo
+mass       098
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.87520
+awdadjust    d    0.50320
+rvadjust     n    1.00824
+gadjust       43 100    0.99962
+gadjust       43  99    1.26242
+cbreak       n    1.03070
+#####
+projectile d
+element    mo
+mass       100
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01255
+awdadjust    d    1.25146
+rvadjust     n    1.08592
+gadjust       43 102    1.30800
+gadjust       43 101    0.93824
+cbreak       n    1.30253
+#####
+projectile d
+element    n
+mass       014
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.86605
+awdadjust    d    0.94673
+rvadjust     n    1.11144
+gadjust        8  16    1.15049
+gadjust        8  15    0.84484
+cbreak       n    0.53666
+#####
+projectile d
+element    nb
+mass       093
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.90434
+rvadjust     n    1.04298
+gadjust       42  95    1.04663
+gadjust       42  94    1.14345
+cbreak       n    0.57703
+#####
+projectile d
+element    ne
+mass       020
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04318
+awdadjust    d    1.01777
+rvadjust     n    1.01749
+gadjust       11  22    1.01876
+gadjust       11  21    0.97828
+cbreak       n    0.79906
+#####
+projectile d
+element    ni
+mass       058
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95754
+awdadjust    d    0.98631
+rvadjust     n    1.08282
+gadjust       29  60    0.44699
+gadjust       29  59    0.61637
+cbreak       n    1.24265
+#####
+projectile d
+element    ni
+mass       060
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96541
+awdadjust    d    0.98631
+rvadjust     n    0.98111
+gadjust       29  62    0.72429
+gadjust       29  61    0.89338
+cbreak       n    0.19986
+#####
+projectile d
+element    ni
+mass       061
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.06059
+awdadjust    d    1.01186
+rvadjust     n    1.06595
+gadjust       29  63    1.03060
+gadjust       29  62    0.82748
+cbreak       n    0.56526
+#####
+projectile d
+element    ni
+mass       064
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.99412
+gadjust       29  66    1.03630
+gadjust       29  65    1.12650
+cbreak       n    0.55698
+#####
+projectile d
+element    np
+mass       237
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       94 239    1.01553
+gadjust       94 238    1.03787
+cbreak       n    0.34630
+#####
+projectile d
+element    o
+mass       016
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05336
+awdadjust    d    1.03578
+rvadjust     n    1.20118
+gadjust        9  18    0.87857
+gadjust        9  17    0.78622
+cbreak       n    1.78245
+#####
+projectile d
+element    os
+mass       192
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95058
+awdadjust    d    1.00580
+rvadjust     n    0.95159
+gadjust       77 194    0.99717
+gadjust       77 193    1.21413
+cbreak       n    0.73626
+#####
+projectile d
+element    pb
+mass       204
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.73574
+awdadjust    d    0.98631
+rvadjust     n    1.07283
+gadjust       83 206    0.83148
+gadjust       83 205    0.84540
+cbreak       n    1.48368
+#####
+projectile d
+element    pb
+mass       206
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90336
+awdadjust    d    0.98631
+rvadjust     n    0.99395
+gadjust       83 208    0.92096
+gadjust       83 207    0.94870
+cbreak       n    1.27462
+#####
+projectile d
+element    pd
+mass       110
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03099
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       47 112    1.03568
+gadjust       47 111    1.08999
+cbreak       n    0.66336
+#####
+projectile d
+element    pr
+mass       141
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.95420
+rvadjust     n    1.04392
+gadjust       60 143    0.85544
+gadjust       60 142    0.91861
+cbreak       n    0.13782
+#####
+projectile d
+element    pt
+mass       194
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.88129
+awdadjust    d    0.92086
+rvadjust     n    1.02813
+gadjust       79 196    0.96407
+gadjust       79 195    1.03295
+cbreak       n    1.39003
+#####
+projectile d
+element    pt
+mass       198
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97836
+awdadjust    d    1.04689
+rvadjust     n    1.00084
+gadjust       79 200    1.00374
+gadjust       79 199    1.11562
+cbreak       n    0.73875
+#####
+projectile d
+element    pu
+mass       239
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02347
+awdadjust    d    1.01511
+rvadjust     n    1.02132
+gadjust       95 241    1.00047
+gadjust       95 240    1.06698
+cbreak       n    2.22507
+#####
+projectile d
+element    pu
+mass       241
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96099
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 243    1.16100
+gadjust       95 242    1.00678
+cbreak       n    1.13611
+#####
+projectile d
+element    pu
+mass       242
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95790
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 244    1.61704
+gadjust       95 243    1.00670
+cbreak       n    5.38751
+#####
+projectile d
+element    rh
+mass       103
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04336
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       46 105    1.01370
+gadjust       46 104    1.10315
+cbreak       n    0.29555
+#####
+projectile d
+element    sb
+mass       121
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03528
+awdadjust    d    0.99673
+rvadjust     n    0.97562
+gadjust       52 123    0.95457
+gadjust       52 122    1.01312
+cbreak       n    0.49724
+#####
+projectile d
+element    sb
+mass       123
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00976
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       52 125    1.01644
+gadjust       52 124    1.12811
+cbreak       n    0.44131
+#####
+projectile d
+element    sc
+mass       045
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97066
+awdadjust    d    1.00606
+rvadjust     n    0.94991
+gadjust       22  47    1.15718
+gadjust       22  46    1.16424
+cbreak       n    2.44915
+#####
+projectile d
+element    se
+mass       074
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03129
+awdadjust    d    0.99427
+rvadjust     n    0.97806
+gadjust       35  76    1.05689
+gadjust       35  75    0.95482
+cbreak       n    1.83216
+#####
+projectile d
+element    se
+mass       076
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98693
+gadjust       35  78    1.10777
+gadjust       35  77    1.14699
+cbreak       n    0.71903
+#####
+projectile d
+element    se
+mass       080
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98555
+gadjust       35  82    1.10858
+gadjust       35  81    1.13656
+cbreak       n    0.77796
+#####
+projectile d
+element    se
+mass       082
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.73247
+rvadjust     n    0.95701
+gadjust       35  84    1.03801
+gadjust       35  83    1.07484
+cbreak       n    0.81776
+#####
+projectile d
+element    sn
+mass       118
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96393
+rvadjust     n    1.05125
+gadjust       51 120    0.90329
+gadjust       51 119    0.88455
+cbreak       n    0.69458
+#####
+projectile d
+element    sn
+mass       120
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01917
+awdadjust    d    0.99673
+rvadjust     n    0.98412
+gadjust       51 122    0.96606
+gadjust       51 121    1.01221
+cbreak       n    0.66389
+#####
+projectile d
+element    sn
+mass       124
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.03802
+gadjust       51 126    0.93739
+gadjust       51 125    0.88183
+cbreak       n    0.84505
+#####
+projectile d
+element    ta
+mass       181
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94909
+awdadjust    d    0.97645
+rvadjust     n    0.96426
+gadjust       74 183    0.94020
+gadjust       74 182    1.04586
+cbreak       n    0.16557
+#####
+projectile d
+element    tb
+mass       159
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       66 161    1.02746
+gadjust       66 160    1.06321
+cbreak       n    0.34630
+#####
+projectile d
+element    te
+mass       120
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98019
+gadjust       53 122    1.04159
+gadjust       53 121    1.24757
+cbreak       n    0.65728
+#####
+projectile d
+element    te
+mass       122
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94917
+rvadjust     n    0.97045
+gadjust       53 124    0.94368
+gadjust       53 123    1.20895
+cbreak       n    0.34722
+#####
+projectile d
+element    te
+mass       123
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.07164
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       53 125    1.01644
+gadjust       53 124    1.19143
+cbreak       n    0.32303
+#####
+projectile d
+element    te
+mass       124
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90663
+awdadjust    d    1.00580
+rvadjust     n    1.03403
+gadjust       53 126    0.99869
+gadjust       53 125    0.98681
+cbreak       n    1.24827
+#####
+projectile d
+element    te
+mass       126
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.91799
+awdadjust    d    0.98631
+rvadjust     n    0.99769
+gadjust       53 128    0.87906
+gadjust       53 127    0.88134
+cbreak       n    1.10223
+#####
+projectile d
+element    te
+mass       128
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92072
+awdadjust    d    0.76903
+rvadjust     n    0.98112
+gadjust       53 130    0.95258
+gadjust       53 129    1.04615
+cbreak       n    0.81030
+#####
+projectile d
+element    te
+mass       130
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.89694
+awdadjust    d    0.98149
+rvadjust     n    0.91874
+gadjust       53 132    0.95674
+gadjust       53 131    1.07287
+cbreak       n    1.08208
+#####
+projectile d
+element    th
+mass       232
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       91 234    1.01624
+gadjust       91 233    1.03946
+cbreak       n    0.34630
+#####
+projectile d
+element    ti
+mass       047
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96298
+rvadjust     n    0.99940
+gadjust       23  49    0.88103
+gadjust       23  48    1.16978
+cbreak       n    0.30683
+#####
+projectile d
+element    ti
+mass       048
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.74528
+rvadjust     n    0.86605
+gadjust       23  50    0.77424
+gadjust       23  49    0.79526
+cbreak       n    1.19017
+#####
+projectile d
+element    tl
+mass       203
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99395
+awdadjust    d    1.05660
+rvadjust     n    0.98405
+gadjust       82 205    0.95566
+gadjust       82 204    1.09727
+cbreak       n    0.66580
+#####
+projectile d
+element    tm
+mass       169
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01811
+awdadjust    d    1.01463
+rvadjust     n    0.98061
+gadjust       70 171    0.96061
+gadjust       70 170    1.01875
+cbreak       n    0.26311
+#####
+projectile d
+element    u
+mass       233
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96895
+rvadjust     n    0.99940
+gadjust       93 235    0.76319
+gadjust       93 234    1.02266
+cbreak       n    0.42773
+#####
+projectile d
+element    u
+mass       234
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 236    1.01596
+gadjust       93 235    1.03882
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       235
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 237    1.01581
+gadjust       93 236    1.03850
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       236
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 238    1.01567
+gadjust       93 237    1.03819
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       238
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00250
+awdadjust    d    0.95730
+rvadjust     n    1.03011
+gadjust       93 240    1.01811
+gadjust       93 239    1.09719
+cbreak       n    0.18087
+#####
+projectile d
+element    v
+mass       051
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95392
+awdadjust    d    0.98631
+rvadjust     n    1.02844
+gadjust       24  53    0.77636
+gadjust       24  52    0.74825
+cbreak       n    1.50529
+#####
+projectile d
+element    w
+mass       186
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92846
+awdadjust    d    0.96407
+rvadjust     n    0.96564
+gadjust       75 188    0.99725
+gadjust       75 187    1.25871
+cbreak       n    0.64654
+#####
+projectile d
+element    y
+mass       089
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.94304
+rvadjust     n    1.03785
+gadjust       40  91    0.77131
+gadjust       40  90    0.88765
+cbreak       n  4.49979E-02
+#####
+projectile d
+element    yb
+mass       176
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03471
+awdadjust    d    0.99673
+rvadjust     n    0.97394
+gadjust       71 178    0.95436
+gadjust       71 177    1.00782
+cbreak       n    0.72874
+#####
+projectile d
+element    zn
+mass       064
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96235
+awdadjust    d    0.99662
+rvadjust     n    0.97977
+gadjust       31  66    0.87881
+gadjust       31  65    1.19078
+cbreak       n    0.26135
+#####
+projectile d
+element    zn
+mass       066
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02081
+awdadjust    d    1.01238
+rvadjust     n    1.01310
+gadjust       31  68    0.76599
+gadjust       31  67    0.89622
+cbreak       n    0.31836
+#####
+projectile d
+element    zn
+mass       068
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.85586
+rvadjust     n    0.99940
+gadjust       31  70    0.63170
+gadjust       31  69    0.78369
+cbreak       n    0.45474
+#####
+projectile d
+element    zr
+mass       090
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97916
+gadjust       41  92    1.03715
+gadjust       41  91    1.14392
+cbreak       n    0.55052
+#####
+projectile d
+element    zr
+mass       094
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90077
+awdadjust    d    1.01175
+rvadjust     n    0.73964
+gadjust       41  96    0.85453
+gadjust       41  95    1.07172
+cbreak       n    3.35568
+#####
+projectile d
+element    zr
+mass       096
+ldmodel 1
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95156
+awdadjust    d    1.00042
+rvadjust     n    0.95508
+gadjust       41  98    0.90111
+gadjust       41  97    1.17097
+cbreak       n    0.25988
+#####
+projectile d
+element    ag
+mass       107
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93581
+awdadjust    d    0.99432
+rvadjust     n    0.99218
+gadjust       48 109    0.99902
+gadjust       48 108    1.08468
+cbreak       n    1.03866
+#####
+projectile d
+element    ag
+mass       109
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97915
+awdadjust    d    0.95240
+rvadjust     n    0.99003
+gadjust       48 111    1.02403
+gadjust       48 110    1.15613
+cbreak       n    0.61393
+#####
+projectile d
+element    al
+mass       027
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.04449
+gadjust       14  29    0.79652
+gadjust       14  28    0.71456
+cbreak       n    1.74978
+#####
+projectile d
+element    as
+mass       075
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97156
+gadjust       34  77    1.00830
+gadjust       34  76    1.14501
+cbreak       n    0.57619
+#####
+projectile d
+element    au
+mass       197
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97983
+awdadjust    d    1.04425
+rvadjust     n    0.97453
+gadjust       80 199    0.96631
+gadjust       80 198    1.09451
+cbreak       n    1.11017
+#####
+projectile d
+element    b
+mass       010
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03790
+awdadjust    d    0.99673
+rvadjust     n    0.96852
+gadjust        6  12    0.99629
+gadjust        6  11    1.02308
+cbreak       n    0.59042
+#####
+projectile d
+element    b
+mass       011
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96719
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust        6  13    1.53393
+gadjust        6  12    1.03116
+cbreak       n    1.31310
+#####
+projectile d
+element    bi
+mass       209
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97022
+awdadjust    d    0.98631
+rvadjust     n    1.03525
+gadjust       84 211    0.92531
+gadjust       84 210    0.95172
+cbreak       n    0.24305
+#####
+projectile d
+element    br
+mass       079
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94804
+rvadjust     n    0.97405
+gadjust       36  81    0.99534
+gadjust       36  80    1.18452
+cbreak       n    0.40190
+#####
+projectile d
+element    br
+mass       081
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97806
+awdadjust    d    0.94205
+rvadjust     n    0.99858
+gadjust       36  83    1.09700
+gadjust       36  82    1.14153
+cbreak       n    0.82272
+#####
+projectile d
+element    c
+mass       012
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96699
+rvadjust     n    1.02918
+gadjust        7  14    0.91760
+gadjust        7  13    0.85718
+cbreak       n    0.32676
+#####
+projectile d
+element    c
+mass       013
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96176
+awdadjust    d    1.00495
+rvadjust     n    0.97425
+gadjust        7  15    0.99341
+gadjust        7  14    1.13820
+cbreak       n    0.99620
+#####
+projectile d
+element    c
+mass       014
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.09102
+awdadjust    d    1.01186
+rvadjust     n    1.05734
+gadjust        7  16    0.97448
+gadjust        7  15    0.67981
+cbreak       n    1.02291
+#####
+projectile d
+element    ca
+mass       042
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.04157
+gadjust       21  44    1.15098
+gadjust       21  43    0.70331
+cbreak       n    0.84319
+#####
+projectile d
+element    ca
+mass       043
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96124
+rvadjust     n    1.05602
+gadjust       21  45    1.03605
+gadjust       21  44    0.66862
+cbreak       n    0.88522
+#####
+projectile d
+element    ca
+mass       048
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96303
+awdadjust    d    0.99319
+rvadjust     n    1.00895
+gadjust       21  50    1.26913
+gadjust       21  49    1.03263
+cbreak       n    1.21527
+#####
+projectile d
+element    cd
+mass       110
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98153
+awdadjust    d    1.00457
+rvadjust     n    0.98940
+gadjust       49 112    0.99917
+gadjust       49 111    1.07585
+cbreak       n    0.74158
+#####
+projectile d
+element    cd
+mass       114
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99022
+awdadjust    d    0.99870
+rvadjust     n    0.98937
+gadjust       49 116    1.00308
+gadjust       49 115    0.92257
+cbreak       n    1.08223
+#####
+projectile d
+element    cd
+mass       116
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01125
+awdadjust    d    0.96366
+rvadjust     n    0.97753
+gadjust       49 118    1.10061
+gadjust       49 117    1.10258
+cbreak       n    1.31764
+#####
+projectile d
+element    ce
+mass       142
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95376
+rvadjust     n    0.99940
+gadjust       59 144    0.89484
+gadjust       59 143    1.04967
+cbreak       n    0.36459
+#####
+projectile d
+element    cf
+mass       249
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96421
+rvadjust     n    0.98415
+gadjust       99 251    1.00764
+gadjust       99 250    1.06491
+cbreak       n  2.93611E-02
+#####
+projectile d
+element    cr
+mass       050
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       25  52    0.85019
+gadjust       25  51    1.11532
+cbreak       n    0.32902
+#####
+projectile d
+element    cr
+mass       052
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95440
+awdadjust    d    0.98631
+rvadjust     n    1.04804
+gadjust       25  54    0.67829
+gadjust       25  53    0.77224
+cbreak       n    0.80720
+#####
+projectile d
+element    cr
+mass       053
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04298
+awdadjust    d    0.99673
+rvadjust     n    0.96905
+gadjust       25  55    0.87472
+gadjust       25  54    1.01850
+cbreak       n  4.88150E-02
+#####
+projectile d
+element    cs
+mass       133
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.59502
+awdadjust    d    0.97861
+rvadjust     n    0.92686
+gadjust       56 135    0.99841
+gadjust       56 134    1.18176
+cbreak       n    0.84565
+#####
+projectile d
+element    cu
+mass       063
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.94231
+rvadjust     n    1.03380
+gadjust       30  65    0.83542
+gadjust       30  64    0.72338
+cbreak       n    0.43979
+#####
+projectile d
+element    cu
+mass       065
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95225
+awdadjust    d    0.98631
+rvadjust     n    1.03657
+gadjust       30  67    0.83397
+gadjust       30  66    0.88248
+cbreak       n    1.08568
+#####
+projectile d
+element    er
+mass       167
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95763
+rvadjust     n    0.99319
+gadjust       69 169    0.98942
+gadjust       69 168    1.14727
+cbreak       n    0.49551
+#####
+projectile d
+element    eu
+mass       151
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99736
+awdadjust    d    0.96279
+rvadjust     n    1.01977
+gadjust       64 153    0.97427
+gadjust       64 152    1.07767
+cbreak       n    0.22924
+#####
+projectile d
+element    eu
+mass       153
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.02383
+gadjust       64 155    0.91770
+gadjust       64 154    0.90638
+cbreak       n    0.55845
+#####
+projectile d
+element    fe
+mass       054
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03620
+awdadjust    d    0.99673
+rvadjust     n    0.97208
+gadjust       27  56    0.82948
+gadjust       27  55    1.08078
+cbreak       n  4.28207E-02
+#####
+projectile d
+element    fe
+mass       056
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.91959
+awdadjust    d    0.90742
+rvadjust     n    1.08422
+gadjust       27  58    1.05116
+gadjust       27  57    0.73681
+cbreak       n    1.95286
+#####
+projectile d
+element    ga
+mass       069
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.96696
+gadjust       32  71    0.98096
+gadjust       32  70    1.14096
+cbreak       n    0.15415
+#####
+projectile d
+element    gd
+mass       160
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96254
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       65 162    1.06316
+gadjust       65 161    1.01386
+cbreak       n    1.22039
+#####
+projectile d
+element    ge
+mass       070
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96194
+awdadjust    d    0.96615
+rvadjust     n    0.93332
+gadjust       33  72    1.00322
+gadjust       33  71    1.30232
+cbreak       n    0.44135
+#####
+projectile d
+element    ge
+mass       074
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.94311
+rvadjust     n    1.06045
+gadjust       33  76    1.06061
+gadjust       33  75    0.74749
+cbreak       n    1.31598
+#####
+projectile d
+element    hf
+mass       174
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.08692
+awdadjust    d    0.99673
+rvadjust     n    0.95098
+gadjust       73 176    1.05896
+gadjust       73 175    1.01570
+cbreak       n    0.98604
+#####
+projectile d
+element    ho
+mass       165
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02371
+awdadjust    d    0.99673
+rvadjust     n    0.99102
+gadjust       68 167    0.94641
+gadjust       68 166    1.01945
+cbreak       n    0.61636
+#####
+projectile d
+element    i
+mass       127
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01286
+awdadjust    d    1.02381
+rvadjust     n    1.00791
+gadjust       54 129    0.93364
+gadjust       54 128    0.96883
+cbreak       n    0.97277
+#####
+projectile d
+element    kr
+mass       078
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98143
+awdadjust    d    0.96712
+rvadjust     n    1.02201
+gadjust       37  80    1.03973
+gadjust       37  79    0.84667
+cbreak       n    0.32589
+#####
+projectile d
+element    kr
+mass       080
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.84145
+rvadjust     n    1.07863
+gadjust       37  82    1.07367
+gadjust       37  81    0.48280
+cbreak       n    1.01000
+#####
+projectile d
+element    li
+mass       006
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.38447
+awdadjust    d    0.10939
+rvadjust     n    0.99940
+gadjust        4   8    0.83720
+gadjust        4   7    1.07199
+cbreak       n    1.17750
+#####
+projectile d
+element    li
+mass       007
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.23563
+awdadjust    d    1.19344
+rvadjust     n    1.18296
+gadjust        4   9    1.09004
+gadjust        4   8    1.09330
+cbreak       n    2.05092
+#####
+projectile d
+element    mo
+mass       092
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94929
+awdadjust    d    0.98631
+rvadjust     n    1.09056
+gadjust       43  94    0.79420
+gadjust       43  93    0.51187
+cbreak       n    1.60106
+#####
+projectile d
+element    mo
+mass       094
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    1.00656
+gadjust       43  96    1.37663
+gadjust       43  95    1.02346
+cbreak       n    1.05288
+#####
+projectile d
+element    mo
+mass       096
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.88966
+awdadjust    d    0.48893
+rvadjust     n    1.11299
+gadjust       43  98    0.99970
+gadjust       43  97    1.14987
+cbreak       n    1.07246
+#####
+projectile d
+element    mo
+mass       098
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98760
+gadjust       43 100    1.11075
+gadjust       43  99    1.12847
+cbreak       n    1.23984
+#####
+projectile d
+element    mo
+mass       100
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.15270
+awdadjust    d    0.99427
+rvadjust     n    0.92123
+gadjust       43 102    1.21574
+gadjust       43 101    0.78934
+cbreak       n    1.84236
+#####
+projectile d
+element    n
+mass       014
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97256
+awdadjust    d    0.98630
+rvadjust     n    1.02664
+gadjust        8  16    0.89694
+gadjust        8  15    0.87841
+cbreak       n    1.24338
+#####
+projectile d
+element    nb
+mass       093
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94632
+rvadjust     n    0.99064
+gadjust       42  95    1.09329
+gadjust       42  94    1.12737
+cbreak       n    0.86393
+#####
+projectile d
+element    ne
+mass       020
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98663
+gadjust       11  22    1.09653
+gadjust       11  21    1.21043
+cbreak       n    0.84695
+#####
+projectile d
+element    ni
+mass       058
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97509
+awdadjust    d    0.98631
+rvadjust     n    1.04890
+gadjust       29  60    0.62384
+gadjust       29  59    0.99335
+cbreak       n    0.30180
+#####
+projectile d
+element    ni
+mass       060
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95137
+awdadjust    d    0.95653
+rvadjust     n    0.97665
+gadjust       29  62    0.91444
+gadjust       29  61    1.15507
+cbreak       n  8.67090E-02
+#####
+projectile d
+element    ni
+mass       061
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.06826
+gadjust       29  63    1.11751
+gadjust       29  62    0.77598
+cbreak       n    0.75646
+#####
+projectile d
+element    ni
+mass       064
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.99537
+gadjust       29  66    1.18306
+gadjust       29  65    1.09635
+cbreak       n    0.96222
+#####
+projectile d
+element    np
+mass       237
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01811
+awdadjust    d    1.02762
+rvadjust     n    0.98427
+gadjust       94 239    1.04417
+gadjust       94 238    0.97018
+cbreak       n    0.67983
+#####
+projectile d
+element    o
+mass       016
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03291
+awdadjust    d    1.03578
+rvadjust     n    1.04975
+gadjust        9  18    0.92352
+gadjust        9  17    0.97426
+cbreak       n    0.88147
+#####
+projectile d
+element    os
+mass       192
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95667
+awdadjust    d    1.00580
+rvadjust     n    0.95239
+gadjust       77 194    0.99717
+gadjust       77 193    1.06214
+cbreak       n    0.78897
+#####
+projectile d
+element    pb
+mass       204
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.74491
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       83 206    1.18893
+gadjust       83 205    0.88006
+cbreak       n    1.37211
+#####
+projectile d
+element    pb
+mass       206
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.74145
+awdadjust    d    1.00580
+rvadjust     n    1.00300
+gadjust       83 208    0.99703
+gadjust       83 207    1.16000
+cbreak       n    0.67782
+#####
+projectile d
+element    pd
+mass       110
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99061
+awdadjust    d    0.96527
+rvadjust     n    1.00982
+gadjust       47 112    1.06791
+gadjust       47 111    0.97701
+cbreak       n    0.89888
+#####
+projectile d
+element    pr
+mass       141
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96565
+rvadjust     n    1.03874
+gadjust       60 143    0.91765
+gadjust       60 142    0.89631
+cbreak       n    0.60904
+#####
+projectile d
+element    pt
+mass       194
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.87978
+awdadjust    d    0.97002
+rvadjust     n    0.93269
+gadjust       79 196    0.99715
+gadjust       79 195    1.06051
+cbreak       n    1.64155
+#####
+projectile d
+element    pt
+mass       198
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03169
+awdadjust    d    1.01186
+rvadjust     n    1.01582
+gadjust       79 200    1.02424
+gadjust       79 199    1.02717
+cbreak       n    0.82128
+#####
+projectile d
+element    pu
+mass       239
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       95 241    1.01524
+gadjust       95 240    1.03723
+cbreak       n    0.34630
+#####
+projectile d
+element    pu
+mass       241
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95861
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 243    1.23810
+gadjust       95 242    1.00678
+cbreak       n    1.39463
+#####
+projectile d
+element    pu
+mass       242
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00000
+awdadjust    d    1.00000
+rvadjust     n    1.00000
+gadjust       95 244    1.00000
+gadjust       95 243    1.00000
+cbreak       n    1.00000
+#####
+projectile d
+element    rh
+mass       103
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.07895
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       46 105    1.00983
+gadjust       46 104    1.14280
+cbreak       n    0.13474
+#####
+projectile d
+element    sb
+mass       121
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03605
+awdadjust    d    0.99673
+rvadjust     n    0.97705
+gadjust       52 123    0.94561
+gadjust       52 122    1.02180
+cbreak       n    0.64034
+#####
+projectile d
+element    sb
+mass       123
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93681
+awdadjust    d    1.00621
+rvadjust     n    1.00159
+gadjust       52 125    1.05071
+gadjust       52 124    1.12330
+cbreak       n    0.86524
+#####
+projectile d
+element    sc
+mass       045
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04008
+awdadjust    d    0.94835
+rvadjust     n    0.92783
+gadjust       22  47    1.35487
+gadjust       22  46    1.06321
+cbreak       n    1.73914
+#####
+projectile d
+element    se
+mass       074
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97972
+awdadjust    d    0.98631
+rvadjust     n    1.04556
+gadjust       35  76    0.80388
+gadjust       35  75    0.99010
+cbreak       n    0.31219
+#####
+projectile d
+element    se
+mass       076
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.06586
+gadjust       35  78    1.09841
+gadjust       35  77    0.72674
+cbreak       n    1.07025
+#####
+projectile d
+element    se
+mass       080
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95355
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       35  82    1.18488
+gadjust       35  81    1.00874
+cbreak       n    1.08316
+#####
+projectile d
+element    se
+mass       082
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95362
+rvadjust     n    0.97871
+gadjust       35  84    1.12413
+gadjust       35  83    1.13947
+cbreak       n    1.06974
+#####
+projectile d
+element    sn
+mass       118
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.93318
+rvadjust     n    1.03697
+gadjust       51 120    0.94260
+gadjust       51 119    0.90041
+cbreak       n    0.84135
+#####
+projectile d
+element    sn
+mass       120
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96652
+rvadjust     n    1.02986
+gadjust       51 122    0.94037
+gadjust       51 121    0.88120
+cbreak       n    0.81733
+#####
+projectile d
+element    sn
+mass       124
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96610
+rvadjust     n    0.99148
+gadjust       51 126    1.08531
+gadjust       51 125    1.13080
+cbreak       n    0.91794
+#####
+projectile d
+element    ta
+mass       181
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.06905
+awdadjust    d    0.99673
+rvadjust     n    0.98443
+gadjust       74 183    0.92894
+gadjust       74 182    1.00747
+cbreak       n    0.35591
+#####
+projectile d
+element    tb
+mass       159
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99887
+awdadjust    d    0.95128
+rvadjust     n    1.00883
+gadjust       66 161    1.02746
+gadjust       66 160    1.15278
+cbreak       n    0.26223
+#####
+projectile d
+element    te
+mass       120
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95444
+awdadjust    d    1.00122
+rvadjust     n    0.92881
+gadjust       53 122    0.95311
+gadjust       53 121    1.14795
+cbreak       n    0.68776
+#####
+projectile d
+element    te
+mass       122
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95437
+awdadjust    d    1.00580
+rvadjust     n    0.97225
+gadjust       53 124    0.93387
+gadjust       53 123    1.12374
+cbreak       n    0.40130
+#####
+projectile d
+element    te
+mass       123
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.08762
+awdadjust    d    0.99673
+rvadjust     n    0.99289
+gadjust       53 125    0.88058
+gadjust       53 124    1.10236
+cbreak       n    0.25094
+#####
+projectile d
+element    te
+mass       124
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92868
+awdadjust    d    1.00580
+rvadjust     n    0.99609
+gadjust       53 126    0.99869
+gadjust       53 125    1.00165
+cbreak       n    1.20006
+#####
+projectile d
+element    te
+mass       126
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94444
+awdadjust    d    0.93327
+rvadjust     n    0.99072
+gadjust       53 128    0.98299
+gadjust       53 127    1.09213
+cbreak       n    0.95451
+#####
+projectile d
+element    te
+mass       128
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.92546
+rvadjust     n    0.99256
+gadjust       53 130    1.06841
+gadjust       53 129    1.16504
+cbreak       n    0.93241
+#####
+projectile d
+element    te
+mass       130
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.92080
+gadjust       53 132    1.05354
+gadjust       53 131    1.15764
+cbreak       n    0.88795
+#####
+projectile d
+element    th
+mass       232
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       91 234    1.01624
+gadjust       91 233    1.03946
+cbreak       n    0.34630
+#####
+projectile d
+element    ti
+mass       047
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.97088
+rvadjust     n    0.99940
+gadjust       23  49    0.87204
+gadjust       23  48    1.25885
+cbreak       n    0.54695
+#####
+projectile d
+element    ti
+mass       048
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.64853
+awdadjust    d    1.00580
+rvadjust     n    0.90223
+gadjust       23  50    1.00191
+gadjust       23  49    0.15237
+cbreak       n    1.44769
+#####
+projectile d
+element    tl
+mass       203
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00000
+awdadjust    d    1.00000
+rvadjust     n    1.00000
+gadjust       82 205    1.00000
+gadjust       82 204    1.00000
+cbreak       n    1.00000
+#####
+projectile d
+element    tm
+mass       169
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98353
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       70 171    1.01198
+gadjust       70 170    1.19148
+cbreak       n    0.18785
+#####
+projectile d
+element    u
+mass       233
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05618
+awdadjust    d    1.04687
+rvadjust     n    1.06859
+gadjust       93 235    0.80104
+gadjust       93 234    1.09940
+cbreak       n    0.82307
+#####
+projectile d
+element    u
+mass       234
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 236    1.01596
+gadjust       93 235    1.03882
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       235
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 237    1.01581
+gadjust       93 236    1.03850
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       236
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96249
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       93 238    1.09640
+gadjust       93 237    1.00716
+cbreak       n    0.36500
+#####
+projectile d
+element    u
+mass       238
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       93 240    1.01811
+gadjust       93 239    1.03755
+cbreak       n    0.34630
+#####
+projectile d
+element    v
+mass       051
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.61187
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       24  53    1.01993
+gadjust       24  52    0.93230
+cbreak       n    1.39674
+#####
+projectile d
+element    w
+mass       186
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.96301
+gadjust       75 188    1.03288
+gadjust       75 187    1.10284
+cbreak       n    0.76195
+#####
+projectile d
+element    y
+mass       089
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.94226
+rvadjust     n    1.03746
+gadjust       40  91    0.76616
+gadjust       40  90    0.87794
+cbreak       n    0.20560
+#####
+projectile d
+element    yb
+mass       176
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96929
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       71 178    1.06266
+gadjust       71 177    1.01232
+cbreak       n    1.15055
+#####
+projectile d
+element    zn
+mass       064
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98332
+gadjust       31  66    1.01879
+gadjust       31  65    1.28732
+cbreak       n    0.33896
+#####
+projectile d
+element    zn
+mass       066
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00088
+awdadjust    d    1.00696
+rvadjust     n    1.00602
+gadjust       31  68    0.95162
+gadjust       31  67    1.25193
+cbreak       n    0.14474
+#####
+projectile d
+element    zn
+mass       068
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93880
+awdadjust    d    0.98631
+rvadjust     n    1.01080
+gadjust       31  70    0.72222
+gadjust       31  69    0.65572
+cbreak       n    1.44251
+#####
+projectile d
+element    zr
+mass       090
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.99236
+gadjust       41  92    1.15612
+gadjust       41  91    1.10480
+cbreak       n    0.87603
+#####
+projectile d
+element    zr
+mass       094
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03648
+awdadjust    d    0.99673
+rvadjust     n    0.95469
+gadjust       41  96    0.89981
+gadjust       41  95    1.06297
+cbreak       n  6.26299E-02
+#####
+projectile d
+element    zr
+mass       096
+ldmodel 2
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95700
+awdadjust    d    0.99359
+rvadjust     n    0.96924
+gadjust       41  98    0.99081
+gadjust       41  97    1.11629
+cbreak       n    0.18606
+#####
+projectile d
+element    ag
+mass       107
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98543
+gadjust       48 109    1.04912
+gadjust       48 108    1.14606
+cbreak       n    0.61670
+#####
+projectile d
+element    ag
+mass       109
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.84994
+rvadjust     n    0.95355
+gadjust       48 111    1.05106
+gadjust       48 110    1.13847
+cbreak       n    0.75317
+#####
+projectile d
+element    al
+mass       027
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97080
+awdadjust    d    0.98631
+rvadjust     n    1.02640
+gadjust       14  29    0.88880
+gadjust       14  28    0.86017
+cbreak       n    0.93523
+#####
+projectile d
+element    as
+mass       075
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.48907
+awdadjust    d    0.74504
+rvadjust     n    1.12025
+gadjust       34  77    1.07923
+gadjust       34  76    0.95570
+cbreak       n    1.16468
+#####
+projectile d
+element    au
+mass       197
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98361
+awdadjust    d    1.06435
+rvadjust     n    0.94841
+gadjust       80 199    0.96334
+gadjust       80 198    1.08850
+cbreak       n    0.99818
+#####
+projectile d
+element    b
+mass       010
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03793
+awdadjust    d    0.99673
+rvadjust     n    0.97052
+gadjust        6  12    0.96244
+gadjust        6  11    1.02308
+cbreak       n    0.65139
+#####
+projectile d
+element    b
+mass       011
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95886
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust        6  13    1.64773
+gadjust        6  12    1.03116
+cbreak       n    1.38656
+#####
+projectile d
+element    bi
+mass       209
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98321
+awdadjust    d    0.96393
+rvadjust     n    1.06308
+gadjust       84 211    0.93582
+gadjust       84 210    1.04880
+cbreak       n    0.19510
+#####
+projectile d
+element    br
+mass       079
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.89911
+awdadjust    d    0.93176
+rvadjust     n    0.98599
+gadjust       36  81    1.01542
+gadjust       36  80    1.06942
+cbreak       n    0.32402
+#####
+projectile d
+element    br
+mass       081
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.89590
+awdadjust    d    0.96393
+rvadjust     n    1.07114
+gadjust       36  83    1.07687
+gadjust       36  82    1.02857
+cbreak       n    0.41429
+#####
+projectile d
+element    c
+mass       012
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03623
+awdadjust    d    0.99673
+rvadjust     n    0.96513
+gadjust        7  14    0.94792
+gadjust        7  13    0.96267
+cbreak       n    0.27041
+#####
+projectile d
+element    c
+mass       013
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95074
+rvadjust     n    0.99940
+gadjust        7  15    0.85755
+gadjust        7  14    1.14848
+cbreak       n    0.54312
+#####
+projectile d
+element    c
+mass       014
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04186
+awdadjust    d    1.01186
+rvadjust     n    1.02572
+gadjust        7  16    1.03713
+gadjust        7  15    0.82599
+cbreak       n    0.72393
+#####
+projectile d
+element    ca
+mass       042
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96213
+awdadjust    d    0.96393
+rvadjust     n    1.03778
+gadjust       21  44    1.38498
+gadjust       21  43    0.96468
+cbreak       n    0.60945
+#####
+projectile d
+element    ca
+mass       043
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.92593
+rvadjust     n    1.06372
+gadjust       21  45    0.85942
+gadjust       21  44    0.57674
+cbreak       n    0.77377
+#####
+projectile d
+element    ca
+mass       048
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96002
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       21  50    1.52126
+gadjust       21  49    1.03263
+cbreak       n    0.76022
+#####
+projectile d
+element    cd
+mass       110
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.97795
+rvadjust     n    0.95595
+gadjust       49 112    1.10793
+gadjust       49 111    1.12585
+cbreak       n    0.79649
+#####
+projectile d
+element    cd
+mass       114
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.95626
+gadjust       49 116    1.12690
+gadjust       49 115    1.10610
+cbreak       n    0.77587
+#####
+projectile d
+element    cd
+mass       116
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95798
+rvadjust     n    0.94740
+gadjust       49 118    1.12373
+gadjust       49 117    1.11577
+cbreak       n    0.82088
+#####
+projectile d
+element    ce
+mass       142
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96514
+awdadjust    d    0.98631
+rvadjust     n    1.03690
+gadjust       59 144    0.87651
+gadjust       59 143    0.93533
+cbreak       n    0.36258
+#####
+projectile d
+element    cf
+mass       249
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96684
+awdadjust    d    1.02018
+rvadjust     n    1.00001
+gadjust       99 251    0.99700
+gadjust       99 250    1.08891
+cbreak       n    0.91979
+#####
+projectile d
+element    cr
+mass       050
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       25  52    0.86079
+gadjust       25  51    1.12442
+cbreak       n    0.28372
+#####
+projectile d
+element    cr
+mass       052
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.81407
+rvadjust     n    1.13418
+gadjust       25  54    0.86334
+gadjust       25  53    0.48061
+cbreak       n    1.46442
+#####
+projectile d
+element    cr
+mass       053
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.06746
+gadjust       25  55    0.88579
+gadjust       25  54    0.86870
+cbreak       n    0.30875
+#####
+projectile d
+element    cs
+mass       133
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98607
+gadjust       56 135    1.03953
+gadjust       56 134    1.13222
+cbreak       n    0.43701
+#####
+projectile d
+element    cu
+mass       063
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00058
+awdadjust    d    0.96393
+rvadjust     n    1.04013
+gadjust       30  65    1.23795
+gadjust       30  64    0.96322
+cbreak       n    0.40201
+#####
+projectile d
+element    cu
+mass       065
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.03486
+gadjust       30  67    0.88058
+gadjust       30  66    0.73085
+cbreak       n    0.81319
+#####
+projectile d
+element    er
+mass       167
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94310
+rvadjust     n    0.98733
+gadjust       69 169    0.96205
+gadjust       69 168    1.19096
+cbreak       n  9.03709E-02
+#####
+projectile d
+element    eu
+mass       151
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97995
+awdadjust    d    0.95373
+rvadjust     n    1.02035
+gadjust       64 153    0.98320
+gadjust       64 152    1.03679
+cbreak       n    0.19415
+#####
+projectile d
+element    eu
+mass       153
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00358
+awdadjust    d    0.96393
+rvadjust     n    1.01732
+gadjust       64 155    1.01423
+gadjust       64 154    1.06964
+cbreak       n    0.31454
+#####
+projectile d
+element    fe
+mass       054
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96049
+rvadjust     n    0.99940
+gadjust       27  56    0.84134
+gadjust       27  55    1.10365
+cbreak       n    0.23028
+#####
+projectile d
+element    fe
+mass       056
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.83583
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       27  58    2.42707
+gadjust       27  57    0.16385
+cbreak       n    1.27140
+#####
+projectile d
+element    ga
+mass       069
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97926
+gadjust       32  71    1.16930
+gadjust       32  70    1.10831
+cbreak       n    0.32238
+#####
+projectile d
+element    gd
+mass       160
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00822
+awdadjust    d    0.96362
+rvadjust     n    1.00917
+gadjust       65 162    1.07417
+gadjust       65 161    1.04460
+cbreak       n    0.67048
+#####
+projectile d
+element    ge
+mass       070
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.93271
+rvadjust     n    1.06661
+gadjust       33  72    0.84550
+gadjust       33  71    0.89874
+cbreak       n  5.56622E-02
+#####
+projectile d
+element    ge
+mass       074
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.94500
+rvadjust     n    1.08135
+gadjust       33  76    1.16816
+gadjust       33  75    0.73404
+cbreak       n    0.89210
+#####
+projectile d
+element    hf
+mass       174
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.06085
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       73 176    1.01420
+gadjust       73 175    1.01160
+cbreak       n    0.60478
+#####
+projectile d
+element    ho
+mass       165
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97936
+awdadjust    d    0.96466
+rvadjust     n    0.98913
+gadjust       68 167    1.02593
+gadjust       68 166    1.11629
+cbreak       n    0.61667
+#####
+projectile d
+element    i
+mass       127
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99475
+awdadjust    d    0.98131
+rvadjust     n    0.99187
+gadjust       54 129    1.02495
+gadjust       54 128    1.11267
+cbreak       n    1.70673
+#####
+projectile d
+element    kr
+mass       078
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       37  80    1.07145
+gadjust       37  79    1.17041
+cbreak       n    0.34630
+#####
+projectile d
+element    kr
+mass       080
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94471
+awdadjust    d    0.94314
+rvadjust     n    1.04774
+gadjust       37  82    1.18675
+gadjust       37  81    0.97418
+cbreak       n    0.54141
+#####
+projectile d
+element    li
+mass       006
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.50947
+awdadjust    d    0.13783
+rvadjust     n    0.99940
+gadjust        4   8    0.83720
+gadjust        4   7    1.07199
+cbreak       n    1.17750
+#####
+projectile d
+element    li
+mass       007
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98999
+awdadjust    d    1.21937
+rvadjust     n    0.88221
+gadjust        4   9    0.94936
+gadjust        4   8    1.19942
+cbreak       n    1.36307
+#####
+projectile d
+element    mo
+mass       092
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.88610
+rvadjust     n    1.14903
+gadjust       43  94    0.74726
+gadjust       43  93    0.32109
+cbreak       n    1.39902
+#####
+projectile d
+element    mo
+mass       094
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98940
+awdadjust    d    0.95685
+rvadjust     n    0.99203
+gadjust       43  96    1.29680
+gadjust       43  95    0.99160
+cbreak       n    0.76552
+#####
+projectile d
+element    mo
+mass       096
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98968
+gadjust       43  98    1.04852
+gadjust       43  97    1.14610
+cbreak       n    0.59952
+#####
+projectile d
+element    mo
+mass       098
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95218
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       43 100    1.12887
+gadjust       43  99    1.04416
+cbreak       n    0.77996
+#####
+projectile d
+element    mo
+mass       100
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.13358
+awdadjust    d    1.14012
+rvadjust     n    1.00488
+gadjust       43 102    1.34918
+gadjust       43 101    0.74754
+cbreak       n    0.52328
+#####
+projectile d
+element    n
+mass       014
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97129
+awdadjust    d    0.98631
+rvadjust     n    1.02913
+gadjust        8  16    0.87114
+gadjust        8  15    0.90546
+cbreak       n    1.27922
+#####
+projectile d
+element    nb
+mass       093
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93190
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       42  95    1.10877
+gadjust       42  94    1.08754
+cbreak       n    0.51264
+#####
+projectile d
+element    ne
+mass       020
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.99044
+gadjust       11  22    1.13361
+gadjust       11  21    1.22173
+cbreak       n    0.77550
+#####
+projectile d
+element    ni
+mass       058
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97255
+awdadjust    d    0.98631
+rvadjust     n    1.03888
+gadjust       29  60    0.56299
+gadjust       29  59    0.92965
+cbreak       n  4.11251E-02
+#####
+projectile d
+element    ni
+mass       060
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03150
+awdadjust    d    0.99673
+rvadjust     n    0.97275
+gadjust       29  62    0.88878
+gadjust       29  61    1.01900
+cbreak       n    0.14291
+#####
+projectile d
+element    ni
+mass       061
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.13557
+awdadjust    d    1.01186
+rvadjust     n    0.97142
+gadjust       29  63    1.03060
+gadjust       29  62    0.26348
+cbreak       n    0.58422
+#####
+projectile d
+element    ni
+mass       064
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98711
+gadjust       29  66    1.32588
+gadjust       29  65    0.98227
+cbreak       n    0.82542
+#####
+projectile d
+element    np
+mass       237
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01811
+awdadjust    d    1.02762
+rvadjust     n    0.98290
+gadjust       94 239    1.04399
+gadjust       94 238    0.96826
+cbreak       n    0.58539
+#####
+projectile d
+element    o
+mass       016
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.07724
+awdadjust    d    1.03578
+rvadjust     n    1.19943
+gadjust        9  18    0.89158
+gadjust        9  17    1.00174
+cbreak       n    2.17161
+#####
+projectile d
+element    os
+mass       192
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93157
+awdadjust    d    1.00580
+rvadjust     n    0.95374
+gadjust       77 194    0.99717
+gadjust       77 193    1.02313
+cbreak       n    1.01530
+#####
+projectile d
+element    pb
+mass       204
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.69623
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       83 206    1.21761
+gadjust       83 205    0.91803
+cbreak       n    1.35420
+#####
+projectile d
+element    pb
+mass       206
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.89692
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       83 208    1.03186
+gadjust       83 207    1.07083
+cbreak       n    0.91674
+#####
+projectile d
+element    pd
+mass       110
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.13522
+awdadjust    d    1.01186
+rvadjust     n    1.02988
+gadjust       47 112    1.15387
+gadjust       47 111    0.84226
+cbreak       n    2.08545
+#####
+projectile d
+element    pr
+mass       141
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.87593
+rvadjust     n    1.02882
+gadjust       60 143    0.84805
+gadjust       60 142    0.71491
+cbreak       n    0.50443
+#####
+projectile d
+element    pt
+mass       194
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92052
+awdadjust    d    0.85755
+rvadjust     n    0.93897
+gadjust       79 196    0.99715
+gadjust       79 195    1.08600
+cbreak       n    1.50050
+#####
+projectile d
+element    pt
+mass       198
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02718
+awdadjust    d    1.01186
+rvadjust     n    1.03694
+gadjust       79 200    1.01357
+gadjust       79 199    0.94182
+cbreak       n    0.83997
+#####
+projectile d
+element    pu
+mass       239
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95685
+awdadjust    d    0.99260
+rvadjust     n    0.93986
+gadjust       95 241    1.00061
+gadjust       95 240    1.02061
+cbreak       n    1.26317
+#####
+projectile d
+element    pu
+mass       241
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95640
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 243    1.22439
+gadjust       95 242    1.00678
+cbreak       n    1.09528
+#####
+projectile d
+element    pu
+mass       242
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00000
+awdadjust    d    1.00000
+rvadjust     n    1.00000
+gadjust       95 244    1.00000
+gadjust       95 243    1.00000
+cbreak       n    1.00000
+#####
+projectile d
+element    rh
+mass       103
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02957
+awdadjust    d    0.98924
+rvadjust     n    0.97362
+gadjust       46 105    1.03689
+gadjust       46 104    1.02817
+cbreak       n    0.43531
+#####
+projectile d
+element    sb
+mass       121
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00505
+awdadjust    d    0.96350
+rvadjust     n    1.03853
+gadjust       52 123    1.00313
+gadjust       52 122    1.07008
+cbreak       n    0.32830
+#####
+projectile d
+element    sb
+mass       123
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00236
+awdadjust    d    0.96180
+rvadjust     n    1.02022
+gadjust       52 125    1.03476
+gadjust       52 124    1.07524
+cbreak       n    0.38047
+#####
+projectile d
+element    sc
+mass       045
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98552
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       22  47    1.57660
+gadjust       22  46    0.68464
+cbreak       n    1.37212
+#####
+projectile d
+element    se
+mass       074
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.97047
+rvadjust     n    1.06698
+gadjust       35  76    0.83788
+gadjust       35  75    0.88338
+cbreak       n    0.39996
+#####
+projectile d
+element    se
+mass       076
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.03785
+gadjust       35  78    0.96609
+gadjust       35  77    0.83974
+cbreak       n    0.25797
+#####
+projectile d
+element    se
+mass       080
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96109
+rvadjust     n    1.05123
+gadjust       35  82    1.12059
+gadjust       35  81    0.78406
+cbreak       n    0.67816
+#####
+projectile d
+element    se
+mass       082
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95031
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       35  84    1.15251
+gadjust       35  83    1.02228
+cbreak       n    0.71726
+#####
+projectile d
+element    sn
+mass       118
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00152
+awdadjust    d    0.96393
+rvadjust     n    1.02840
+gadjust       51 120    1.10125
+gadjust       51 119    1.03422
+cbreak       n    0.64316
+#####
+projectile d
+element    sn
+mass       120
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.95454
+gadjust       51 122    1.07961
+gadjust       51 121    1.12034
+cbreak       n    0.85677
+#####
+projectile d
+element    sn
+mass       124
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96273
+rvadjust     n    0.98100
+gadjust       51 126    1.11720
+gadjust       51 125    1.11741
+cbreak       n    0.60170
+#####
+projectile d
+element    ta
+mass       181
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97175
+gadjust       74 183    0.99503
+gadjust       74 182    1.12180
+cbreak       n    0.24609
+#####
+projectile d
+element    tb
+mass       159
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       66 161    1.02746
+gadjust       66 160    1.06321
+cbreak       n    0.34630
+#####
+projectile d
+element    te
+mass       120
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.92742
+gadjust       53 122    1.04093
+gadjust       53 121    1.22422
+cbreak       n    0.63222
+#####
+projectile d
+element    te
+mass       122
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.91234
+rvadjust     n    0.93732
+gadjust       53 124    0.99689
+gadjust       53 123    1.20336
+cbreak       n    0.48035
+#####
+projectile d
+element    te
+mass       123
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05942
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       53 125    1.01644
+gadjust       53 124    1.31520
+cbreak       n    0.14552
+#####
+projectile d
+element    te
+mass       124
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95717
+rvadjust     n    0.98024
+gadjust       53 126    1.08752
+gadjust       53 125    1.11781
+cbreak       n    0.81317
+#####
+projectile d
+element    te
+mass       126
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98465
+gadjust       53 128    0.97045
+gadjust       53 127    0.92341
+cbreak       n    0.89495
+#####
+projectile d
+element    te
+mass       128
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.74969
+rvadjust     n    0.90101
+gadjust       53 130    1.00209
+gadjust       53 129    1.03862
+cbreak       n    0.93998
+#####
+projectile d
+element    te
+mass       130
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95254
+rvadjust     n    0.99940
+gadjust       53 132    0.86653
+gadjust       53 131    1.02637
+cbreak       n  2.07866E-02
+#####
+projectile d
+element    th
+mass       232
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       91 234    1.01624
+gadjust       91 233    1.03946
+cbreak       n    0.34630
+#####
+projectile d
+element    ti
+mass       047
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.97286
+rvadjust     n    0.99940
+gadjust       23  49    0.93181
+gadjust       23  48    1.38344
+cbreak       n    0.19402
+#####
+projectile d
+element    ti
+mass       048
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.82384
+rvadjust     n    0.95419
+gadjust       23  50    1.04750
+gadjust       23  49    0.82516
+cbreak       n    0.95574
+#####
+projectile d
+element    tl
+mass       203
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05290
+awdadjust    d    0.99673
+rvadjust     n    0.97990
+gadjust       82 205    0.96957
+gadjust       82 204    1.00601
+cbreak       n    0.81128
+#####
+projectile d
+element    tm
+mass       169
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       70 171    1.02585
+gadjust       70 170    1.05991
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       233
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05121
+awdadjust    d    1.04330
+rvadjust     n    1.06042
+gadjust       93 235    0.81702
+gadjust       93 234    1.09316
+cbreak       n    1.09571
+#####
+projectile d
+element    u
+mass       234
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 236    1.01596
+gadjust       93 235    1.03882
+cbreak       n    0.34630
+#####
+projectile d
+element    u
+mass       235
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01811
+awdadjust    d    1.02762
+rvadjust     n    0.98427
+gadjust       93 237    1.04491
+gadjust       93 236    0.96976
+cbreak       n    0.67983
+#####
+projectile d
+element    u
+mass       236
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98143
+awdadjust    d    0.96897
+rvadjust     n    1.02024
+gadjust       93 238    1.00493
+gadjust       93 237    0.95298
+cbreak       n    0.59818
+#####
+projectile d
+element    u
+mass       238
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01708
+gadjust       93 240    1.01811
+gadjust       93 239    1.03755
+cbreak       n    0.34630
+#####
+projectile d
+element    v
+mass       051
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.88305
+rvadjust     n    0.90361
+gadjust       24  53    2.03175
+gadjust       24  52    0.28851
+cbreak       n    1.14754
+#####
+projectile d
+element    w
+mass       186
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.96212
+gadjust       75 188    1.05052
+gadjust       75 187    1.09703
+cbreak       n    0.77824
+#####
+projectile d
+element    y
+mass       089
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.95496
+rvadjust     n    1.03635
+gadjust       40  91    0.86209
+gadjust       40  90    0.87575
+cbreak       n  2.08616E-02
+#####
+projectile d
+element    yb
+mass       176
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95082
+rvadjust     n    0.96985
+gadjust       71 178    1.10332
+gadjust       71 177    1.07234
+cbreak       n    0.91968
+#####
+projectile d
+element    zn
+mass       064
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.97308
+gadjust       31  66    1.02056
+gadjust       31  65    1.29223
+cbreak       n    0.13901
+#####
+projectile d
+element    zn
+mass       066
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03204
+awdadjust    d    0.99673
+rvadjust     n    0.97411
+gadjust       31  68    0.89592
+gadjust       31  67    0.99768
+cbreak       n    0.26895
+#####
+projectile d
+element    zn
+mass       068
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96550
+awdadjust    d    0.98631
+rvadjust     n    1.01209
+gadjust       31  70    0.86567
+gadjust       31  69    0.83612
+cbreak       n    0.60930
+#####
+projectile d
+element    zr
+mass       090
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96488
+awdadjust    d    0.96393
+rvadjust     n    1.01308
+gadjust       41  92    1.22507
+gadjust       41  91    0.96671
+cbreak       n    0.78666
+#####
+projectile d
+element    zr
+mass       094
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93318
+awdadjust    d    1.01123
+rvadjust     n    0.90528
+gadjust       41  96    1.08925
+gadjust       41  95    1.02043
+cbreak       n    1.68521
+#####
+projectile d
+element    zr
+mass       096
+ldmodel 2
+colenhance y
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95515
+awdadjust    d    0.98775
+rvadjust     n    0.96865
+gadjust       41  98    0.97423
+gadjust       41  97    1.12076
+cbreak       n    0.37126
+#####
+projectile d
+element    ag
+mass       107
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99690
+awdadjust    d    0.97683
+rvadjust     n    0.95300
+gadjust       48 109    0.95481
+gadjust       48 108    1.12706
+cbreak       n    2.13059
+#####
+projectile d
+element    ag
+mass       109
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92786
+awdadjust    d    0.88243
+rvadjust     n    0.97310
+gadjust       48 111    0.92585
+gadjust       48 110    1.06744
+cbreak       n    0.58217
+#####
+projectile d
+element    al
+mass       027
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.03446
+gadjust       14  29    0.85674
+gadjust       14  28    0.71438
+cbreak       n    1.82973
+#####
+projectile d
+element    as
+mass       075
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98174
+gadjust       34  77    1.01882
+gadjust       34  76    1.23794
+cbreak       n    0.34823
+#####
+projectile d
+element    au
+mass       197
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04951
+awdadjust    d    0.99673
+rvadjust     n    0.95801
+gadjust       80 199    0.90019
+gadjust       80 198    1.00639
+cbreak       n    0.71808
+#####
+projectile d
+element    b
+mass       010
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98536
+gadjust        6  12    1.10409
+gadjust        6  11    1.19710
+cbreak       n    0.69863
+#####
+projectile d
+element    b
+mass       011
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04081
+awdadjust    d    1.01525
+rvadjust     n    1.02721
+gadjust        6  13    1.07905
+gadjust        6  12    0.87395
+cbreak       n    1.09705
+#####
+projectile d
+element    bi
+mass       209
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95393
+awdadjust    d    0.97057
+rvadjust     n    1.04940
+gadjust       84 211    0.89767
+gadjust       84 210    1.04913
+cbreak       n    0.40969
+#####
+projectile d
+element    br
+mass       079
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95226
+rvadjust     n    0.96047
+gadjust       36  81    0.96837
+gadjust       36  80    1.19105
+cbreak       n  6.43204E-02
+#####
+projectile d
+element    br
+mass       081
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.95856
+rvadjust     n    0.98301
+gadjust       36  83    1.04407
+gadjust       36  82    1.13652
+cbreak       n    0.34964
+#####
+projectile d
+element    c
+mass       012
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.79101
+gadjust        7  14    1.26561
+gadjust        7  13    1.03492
+cbreak       n    0.65604
+#####
+projectile d
+element    c
+mass       013
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03697
+awdadjust    d    0.99673
+rvadjust     n    0.97245
+gadjust        7  15    0.96215
+gadjust        7  14    0.95418
+cbreak       n    0.92578
+#####
+projectile d
+element    c
+mass       014
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04522
+awdadjust    d    1.01186
+rvadjust     n    1.03104
+gadjust        7  16    1.03678
+gadjust        7  15    0.84316
+cbreak       n    0.70090
+#####
+projectile d
+element    ca
+mass       042
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       21  44    0.99299
+gadjust       21  43    1.48560
+cbreak       n    0.91823
+#####
+projectile d
+element    ca
+mass       043
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.65199
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       21  45    1.58373
+gadjust       21  44    0.24220
+cbreak       n    1.50244
+#####
+projectile d
+element    ca
+mass       048
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96509
+rvadjust     n    0.95509
+gadjust       21  50    1.16028
+gadjust       21  49    1.19429
+cbreak       n    0.81677
+#####
+projectile d
+element    cd
+mass       110
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96767
+awdadjust    d    1.01677
+rvadjust     n    0.93610
+gadjust       49 112    0.99917
+gadjust       49 111    1.22632
+cbreak       n    0.75455
+#####
+projectile d
+element    cd
+mass       114
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96428
+awdadjust    d    1.00524
+rvadjust     n    0.96084
+gadjust       49 116    1.01853
+gadjust       49 115    1.08178
+cbreak       n    1.03446
+#####
+projectile d
+element    cd
+mass       116
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96261
+rvadjust     n    0.98363
+gadjust       49 118    1.07464
+gadjust       49 117    1.13522
+cbreak       n    0.90051
+#####
+projectile d
+element    ce
+mass       142
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95184
+rvadjust     n    0.99940
+gadjust       59 144    0.89528
+gadjust       59 143    1.03439
+cbreak       n    0.17366
+#####
+projectile d
+element    cf
+mass       249
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.94986
+rvadjust     n    0.97570
+gadjust       99 251    1.01859
+gadjust       99 250    1.06969
+cbreak       n    0.52047
+#####
+projectile d
+element    cr
+mass       050
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       25  52    0.74528
+gadjust       25  51    1.15504
+cbreak       n  8.40621E-02
+#####
+projectile d
+element    cr
+mass       052
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92169
+awdadjust    d    0.88499
+rvadjust     n    1.10118
+gadjust       25  54    0.68434
+gadjust       25  53    0.80461
+cbreak       n    2.08914
+#####
+projectile d
+element    cr
+mass       053
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04071
+awdadjust    d    0.99673
+rvadjust     n    0.96896
+gadjust       25  55    0.82372
+gadjust       25  54    1.01850
+cbreak       n  1.79224E-02
+#####
+projectile d
+element    cs
+mass       133
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93651
+awdadjust    d    0.90422
+rvadjust     n    0.96963
+gadjust       56 135    0.99841
+gadjust       56 134    1.31030
+cbreak       n    0.33802
+#####
+projectile d
+element    cu
+mass       063
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94645
+awdadjust    d    0.98631
+rvadjust     n    1.04893
+gadjust       30  65    0.83125
+gadjust       30  64    0.56296
+cbreak       n    1.02001
+#####
+projectile d
+element    cu
+mass       065
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.78679
+rvadjust     n    0.99940
+gadjust       30  67    0.90268
+gadjust       30  66    0.41352
+cbreak       n    2.86198
+#####
+projectile d
+element    er
+mass       167
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96108
+awdadjust    d    0.99567
+rvadjust     n    0.98504
+gadjust       69 169    0.99757
+gadjust       69 168    1.07376
+cbreak       n    0.40028
+#####
+projectile d
+element    eu
+mass       151
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00567
+awdadjust    d    0.96350
+rvadjust     n    1.01806
+gadjust       64 153    0.99157
+gadjust       64 152    1.08227
+cbreak       n    0.20193
+#####
+projectile d
+element    eu
+mass       153
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.02283
+gadjust       64 155    0.86908
+gadjust       64 154    0.92470
+cbreak       n    0.18587
+#####
+projectile d
+element    fe
+mass       054
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96620
+awdadjust    d    1.03200
+rvadjust     n    0.96462
+gadjust       27  56    0.83064
+gadjust       27  55    1.25092
+cbreak       n    0.16618
+#####
+projectile d
+element    fe
+mass       056
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.83501
+awdadjust    d    0.81530
+rvadjust     n    1.10603
+gadjust       27  58    0.81056
+gadjust       27  57    0.73804
+cbreak       n    3.54997
+#####
+projectile d
+element    ga
+mass       069
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.94309
+rvadjust     n    1.05245
+gadjust       32  71    0.87295
+gadjust       32  70    0.74464
+cbreak       n    0.62756
+#####
+projectile d
+element    gd
+mass       160
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03697
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       65 162    1.01281
+gadjust       65 161    1.23599
+cbreak       n  2.76990E-02
+#####
+projectile d
+element    ge
+mass       070
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94384
+awdadjust    d    0.98631
+rvadjust     n    0.95830
+gadjust       33  72    0.69768
+gadjust       33  71    0.88464
+cbreak       n    0.11619
+#####
+projectile d
+element    ge
+mass       074
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98624
+gadjust       33  76    1.07639
+gadjust       33  75    1.14475
+cbreak       n    0.72193
+#####
+projectile d
+element    hf
+mass       174
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.05975
+awdadjust    d    0.99673
+rvadjust     n    0.96386
+gadjust       73 176    0.90438
+gadjust       73 175    1.08487
+cbreak       n    0.48554
+#####
+projectile d
+element    ho
+mass       165
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03433
+awdadjust    d    0.99673
+rvadjust     n    0.97965
+gadjust       68 167    0.89708
+gadjust       68 166    1.05955
+cbreak       n    0.13558
+#####
+projectile d
+element    i
+mass       127
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04380
+awdadjust    d    0.99673
+rvadjust     n    0.98239
+gadjust       54 129    0.87037
+gadjust       54 128    1.07580
+cbreak       n    0.17178
+#####
+projectile d
+element    kr
+mass       078
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98600
+awdadjust    d    0.94840
+rvadjust     n    1.06060
+gadjust       37  80    1.01078
+gadjust       37  79    1.36538
+cbreak       n  7.60891E-02
+#####
+projectile d
+element    kr
+mass       080
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.85103
+awdadjust    d    0.91401
+rvadjust     n    1.07353
+gadjust       37  82    1.01367
+gadjust       37  81    1.08483
+cbreak       n    0.62330
+#####
+projectile d
+element    li
+mass       006
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.19698
+awdadjust    d    0.52884
+rvadjust     n    0.99940
+gadjust        4   8    0.83720
+gadjust        4   7    1.07199
+cbreak       n    1.17750
+#####
+projectile d
+element    li
+mass       007
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99371
+awdadjust    d    1.13128
+rvadjust     n    0.84300
+gadjust        4   9    0.94936
+gadjust        4   8    1.19942
+cbreak       n    1.36307
+#####
+projectile d
+element    mo
+mass       092
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96991
+awdadjust    d    0.98631
+rvadjust     n    1.05071
+gadjust       43  94    0.64970
+gadjust       43  93    0.78699
+cbreak       n    0.53098
+#####
+projectile d
+element    mo
+mass       094
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00101
+awdadjust    d    0.95998
+rvadjust     n    1.01540
+gadjust       43  96    1.01682
+gadjust       43  95    1.10797
+cbreak       n    0.29356
+#####
+projectile d
+element    mo
+mass       096
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.84362
+awdadjust    d    0.98631
+rvadjust     n    0.99651
+gadjust       43  98    0.70637
+gadjust       43  97    0.67780
+cbreak       n    1.18684
+#####
+projectile d
+element    mo
+mass       098
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.91752
+awdadjust    d    0.44493
+rvadjust     n    1.01256
+gadjust       43 100    0.99962
+gadjust       43  99    1.35907
+cbreak       n    1.08358
+#####
+projectile d
+element    mo
+mass       100
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.19312
+awdadjust    d    1.02212
+rvadjust     n    1.06308
+gadjust       43 102    1.63682
+gadjust       43 101    0.86472
+cbreak       n    1.69682
+#####
+projectile d
+element    n
+mass       014
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90355
+awdadjust    d    0.97884
+rvadjust     n    1.23050
+gadjust        8  16    1.06174
+gadjust        8  15    0.93622
+cbreak       n    0.52866
+#####
+projectile d
+element    nb
+mass       093
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.82271
+rvadjust     n    1.03943
+gadjust       42  95    1.32712
+gadjust       42  94    1.00917
+cbreak       n    1.83115
+#####
+projectile d
+element    ne
+mass       020
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96657
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       11  22    1.21395
+gadjust       11  21    1.06028
+cbreak       n    1.04849
+#####
+projectile d
+element    ni
+mass       058
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96203
+awdadjust    d    1.00580
+rvadjust     n    0.99326
+gadjust       29  60    0.55098
+gadjust       29  59    1.23041
+cbreak       n  2.34015E-02
+#####
+projectile d
+element    ni
+mass       060
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.96250
+rvadjust     n    0.99940
+gadjust       29  62    0.72425
+gadjust       29  61    0.94058
+cbreak       n    0.57110
+#####
+projectile d
+element    ni
+mass       061
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.98331
+awdadjust    d    0.96945
+rvadjust     n    1.06401
+gadjust       29  63    1.10917
+gadjust       29  62    1.01469
+cbreak       n    0.22787
+#####
+projectile d
+element    ni
+mass       064
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92234
+awdadjust    d    0.98631
+rvadjust     n    1.04875
+gadjust       29  66    0.86958
+gadjust       29  65    0.87897
+cbreak       n    1.03550
+#####
+projectile d
+element    np
+mass       237
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01280
+awdadjust    d    0.96040
+rvadjust     n    1.00961
+gadjust       94 239    0.98718
+gadjust       94 238    0.98392
+cbreak       n    3.81485
+#####
+projectile d
+element    o
+mass       016
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03422
+awdadjust    d    1.03578
+rvadjust     n    1.05579
+gadjust        9  18    0.89282
+gadjust        9  17    1.02080
+cbreak       n    0.96195
+#####
+projectile d
+element    os
+mass       192
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94066
+awdadjust    d    1.00580
+rvadjust     n    0.95146
+gadjust       77 194    0.99717
+gadjust       77 193    1.21402
+cbreak       n    0.71999
+#####
+projectile d
+element    pb
+mass       204
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94842
+awdadjust    d    0.98631
+rvadjust     n    1.02038
+gadjust       83 206    0.87770
+gadjust       83 205    0.95014
+cbreak       n    0.91129
+#####
+projectile d
+element    pb
+mass       206
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.95263
+awdadjust    d    0.98631
+rvadjust     n    1.01477
+gadjust       83 208    0.91551
+gadjust       83 207    0.94563
+cbreak       n    1.04726
+#####
+projectile d
+element    pd
+mass       110
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00985
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       47 112    1.01860
+gadjust       47 111    1.06968
+cbreak       n    0.53429
+#####
+projectile d
+element    pr
+mass       141
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96369
+rvadjust     n    1.04530
+gadjust       60 143    0.83893
+gadjust       60 142    0.85100
+cbreak       n    0.23752
+#####
+projectile d
+element    pt
+mass       194
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.92044
+awdadjust    d    0.98631
+rvadjust     n    1.01280
+gadjust       79 196    0.83587
+gadjust       79 195    0.99853
+cbreak       n    0.33163
+#####
+projectile d
+element    pt
+mass       198
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03943
+awdadjust    d    0.99673
+rvadjust     n    0.96932
+gadjust       79 200    0.96917
+gadjust       79 199    1.00633
+cbreak       n    0.74607
+#####
+projectile d
+element    pu
+mass       239
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96276
+awdadjust    d    1.03605
+rvadjust     n    0.96745
+gadjust       95 241    0.96474
+gadjust       95 240    1.07281
+cbreak       n    1.33837
+#####
+projectile d
+element    pu
+mass       241
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96028
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 243    1.14510
+gadjust       95 242    1.00678
+cbreak       n    1.07641
+#####
+projectile d
+element    pu
+mass       242
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02370
+awdadjust    d    0.99320
+rvadjust     n    1.00895
+gadjust       95 244    1.16256
+gadjust       95 243    1.00670
+cbreak       n    6.22810
+#####
+projectile d
+element    rh
+mass       103
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04657
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       46 105    1.01184
+gadjust       46 104    1.14141
+cbreak       n    0.17212
+#####
+projectile d
+element    sb
+mass       121
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97530
+awdadjust    d    1.04740
+rvadjust     n    1.01219
+gadjust       52 123    0.94109
+gadjust       52 122    1.12526
+cbreak       n    0.30127
+#####
+projectile d
+element    sb
+mass       123
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.03726
+awdadjust    d    0.99673
+rvadjust     n    0.99177
+gadjust       52 125    0.94096
+gadjust       52 124    1.03756
+cbreak       n    0.29412
+#####
+projectile d
+element    sc
+mass       045
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95737
+rvadjust     n    0.99940
+gadjust       22  47    0.78563
+gadjust       22  46    1.04516
+cbreak       n    1.00916
+#####
+projectile d
+element    se
+mass       074
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95298
+rvadjust     n    0.99940
+gadjust       35  76    0.64763
+gadjust       35  75    0.95414
+cbreak       n    0.38149
+#####
+projectile d
+element    se
+mass       076
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.04067
+gadjust       35  78    0.83254
+gadjust       35  77    0.81077
+cbreak       n    0.59812
+#####
+projectile d
+element    se
+mass       080
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.88227
+rvadjust     n    1.03530
+gadjust       35  82    0.96134
+gadjust       35  81    0.81498
+cbreak       n    0.90243
+#####
+projectile d
+element    se
+mass       082
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.88787
+rvadjust     n    0.96854
+gadjust       35  84    1.03931
+gadjust       35  83    1.15692
+cbreak       n    0.61867
+#####
+projectile d
+element    sn
+mass       118
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00648
+awdadjust    d    0.99673
+rvadjust     n    0.93648
+gadjust       51 120    0.91309
+gadjust       51 119    1.01322
+cbreak       n    0.74013
+#####
+projectile d
+element    sn
+mass       120
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96237
+awdadjust    d    1.00565
+rvadjust     n    0.96941
+gadjust       51 122    0.99882
+gadjust       51 121    1.14458
+cbreak       n    0.89013
+#####
+projectile d
+element    sn
+mass       124
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94847
+awdadjust    d    0.99959
+rvadjust     n    0.99071
+gadjust       51 126    0.96485
+gadjust       51 125    0.99174
+cbreak       n    0.37360
+#####
+projectile d
+element    ta
+mass       181
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.96584
+gadjust       74 183    0.95429
+gadjust       74 182    1.14385
+cbreak       n  5.97762E-02
+#####
+projectile d
+element    tb
+mass       159
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.90372
+awdadjust    d    0.93859
+rvadjust     n    0.99818
+gadjust       66 161    1.02746
+gadjust       66 160    1.28646
+cbreak       n    0.10210
+#####
+projectile d
+element    te
+mass       120
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94785
+awdadjust    d    0.96442
+rvadjust     n    0.93074
+gadjust       53 122    0.86192
+gadjust       53 121    1.09919
+cbreak       n    0.81832
+#####
+projectile d
+element    te
+mass       122
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96105
+awdadjust    d    0.98631
+rvadjust     n    1.02655
+gadjust       53 124    0.81603
+gadjust       53 123    0.95163
+cbreak       n    0.38570
+#####
+projectile d
+element    te
+mass       123
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.06492
+awdadjust    d    0.99673
+rvadjust     n    0.91984
+gadjust       53 125    0.91849
+gadjust       53 124    0.99931
+cbreak       n    0.43478
+#####
+projectile d
+element    te
+mass       124
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93657
+awdadjust    d    1.00580
+rvadjust     n    0.95179
+gadjust       53 126    0.99869
+gadjust       53 125    1.09609
+cbreak       n    0.95411
+#####
+projectile d
+element    te
+mass       126
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.87604
+awdadjust    d    0.98488
+rvadjust     n    1.02123
+gadjust       53 128    0.89255
+gadjust       53 127    1.01227
+cbreak       n    0.57535
+#####
+projectile d
+element    te
+mass       128
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.83173
+rvadjust     n    0.90715
+gadjust       53 130    0.99242
+gadjust       53 129    1.14147
+cbreak       n    1.19143
+#####
+projectile d
+element    te
+mass       130
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.93155
+rvadjust     n    1.09758
+gadjust       53 132    0.87322
+gadjust       53 131    0.85848
+cbreak       n    0.26949
+#####
+projectile d
+element    th
+mass       232
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96188
+awdadjust    d    1.00573
+rvadjust     n    0.98260
+gadjust       91 234    0.99694
+gadjust       91 233    1.22366
+cbreak       n    0.57488
+#####
+projectile d
+element    ti
+mass       047
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.95273
+rvadjust     n    0.99940
+gadjust       23  49    0.82182
+gadjust       23  48    1.03645
+cbreak       n    0.20288
+#####
+projectile d
+element    ti
+mass       048
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.86651
+awdadjust    d    1.00580
+rvadjust     n    0.91988
+gadjust       23  50    1.00191
+gadjust       23  49    0.77661
+cbreak       n    0.67853
+#####
+projectile d
+element    tl
+mass       203
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.97630
+rvadjust     n    1.04210
+gadjust       82 205    0.88212
+gadjust       82 204    0.96541
+cbreak       n    0.33065
+#####
+projectile d
+element    tm
+mass       169
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97945
+awdadjust    d    0.96471
+rvadjust     n    0.98399
+gadjust       70 171    0.98670
+gadjust       70 170    1.13991
+cbreak       n    0.30085
+#####
+projectile d
+element    u
+mass       233
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.10646
+awdadjust    d    0.99726
+rvadjust     n    1.05099
+gadjust       93 235    1.01610
+gadjust       93 234    1.29240
+cbreak       n  1.68509E-02
+#####
+projectile d
+element    u
+mass       234
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99690
+awdadjust    d    0.97683
+rvadjust     n    0.94620
+gadjust       93 236    0.84206
+gadjust       93 235    1.12600
+cbreak       n    0.62391
+#####
+projectile d
+element    u
+mass       235
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.02069
+awdadjust    d    1.04134
+rvadjust     n    0.98285
+gadjust       93 237    0.89647
+gadjust       93 236    1.08009
+cbreak       n    4.33058
+#####
+projectile d
+element    u
+mass       236
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.96861
+awdadjust    d    0.97007
+rvadjust     n    1.02195
+gadjust       93 238    0.98223
+gadjust       93 237    1.06371
+cbreak       n    1.39512
+#####
+projectile d
+element    u
+mass       238
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00497
+awdadjust    d    0.96393
+rvadjust     n    1.01707
+gadjust       93 240    1.01811
+gadjust       93 239    1.03756
+cbreak       n    0.34630
+#####
+projectile d
+element    v
+mass       051
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94385
+awdadjust    d    0.98631
+rvadjust     n    1.02519
+gadjust       24  53    0.79973
+gadjust       24  52    0.72472
+cbreak       n    1.39910
+#####
+projectile d
+element    w
+mass       186
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.93496
+awdadjust    d    0.96248
+rvadjust     n    0.94223
+gadjust       75 188    0.99725
+gadjust       75 187    1.29366
+cbreak       n    0.65664
+#####
+projectile d
+element    y
+mass       089
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.94834
+awdadjust    d    1.00580
+rvadjust     n    0.94825
+gadjust       40  91    0.89172
+gadjust       40  90    1.10916
+cbreak       n  3.69743E-02
+#####
+projectile d
+element    yb
+mass       176
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.04098
+awdadjust    d    0.99673
+rvadjust     n    0.97060
+gadjust       71 178    0.94109
+gadjust       71 177    1.00782
+cbreak       n    0.80591
+#####
+projectile d
+element    zn
+mass       064
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.95518
+rvadjust     n    1.02239
+gadjust       31  66    0.76571
+gadjust       31  65    0.90287
+cbreak       n    0.23582
+#####
+projectile d
+element    zn
+mass       066
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.94346
+rvadjust     n    0.99940
+gadjust       31  68    0.75529
+gadjust       31  67    0.98001
+cbreak       n    0.40541
+#####
+projectile d
+element    zn
+mass       068
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.00948
+awdadjust    d    0.87118
+rvadjust     n    0.99940
+gadjust       31  70    0.68629
+gadjust       31  69    0.88092
+cbreak       n    0.49056
+#####
+projectile d
+element    zr
+mass       090
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    1.01064
+awdadjust    d    0.96903
+rvadjust     n    1.04611
+gadjust       41  92    0.82342
+gadjust       41  91    0.70618
+cbreak       n    0.80972
+#####
+projectile d
+element    zr
+mass       094
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.97000
+awdadjust    d    1.04588
+rvadjust     n    0.91440
+gadjust       41  96    0.92226
+gadjust       41  95    1.14064
+cbreak       n    0.33574
+#####
+projectile d
+element    zr
+mass       096
+ldmodel 5
+colenhance n
+strength 9
+fismodel 5
+alphaomp 6
+##reaction dn
+##parameters 6
+rwdadjust    d    0.99690
+awdadjust    d    0.97683
+rvadjust     n    0.97329
+gadjust       41  98    0.83713
+gadjust       41  97    1.15016
+cbreak       n    0.15986
+#####

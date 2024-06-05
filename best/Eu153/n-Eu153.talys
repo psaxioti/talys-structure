@@ -28,3 +28,4 @@ Pshiftadjust      63 153   0.6
 s2adjust 63 153 0.20
 s2adjust 63 152 0.20
 nlevels 63 152 30
+ngfit y

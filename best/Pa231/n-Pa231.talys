@@ -1,3 +1,5 @@
+fismodel 1
+ldmodel 1
 colldamp y
 asys y
 class2 y                                                                        
@@ -37,3 +39,4 @@ T         91 229   0.34002   1
 E0        91 229   0.21403   1
 Exmatch   91 229   2.87180   1
 #cwidth 0.10
+ngfit y
