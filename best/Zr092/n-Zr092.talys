@@ -15,8 +15,8 @@ gpadjust 40 93 1.03
 #
 # (n,a)
 #
-rvadjust a 1.05
-avadjust a 1.05
+rvadjust a 1.04
+avadjust a 1.04
 cstrip a 0.4 0.40 #t#
 cknock a 0.4 0.40 #t#
 #
