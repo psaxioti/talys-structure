@@ -1,7 +1,7 @@
 projectile n
 element Pu
 mass 238
-library endfb8.0
+library endfb8.1
 norm mt=2 width=4.
 norm mt=4 width=10.
 norm mt=16 width=8.

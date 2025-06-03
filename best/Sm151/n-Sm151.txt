@@ -1,7 +1,8 @@
 ..................................................................
 .                                                                .
 . Correction res. param MF=2 MT=151 (E. Dupond, G. Noguere CEA)  . 
-. - resonance parameter from Guerrero et al. (nTOF Collaboration). 
+. - resonance parameter from Marrone et al. (nTOF Collaboration) . 
+.                             Phys. Rev. C 73, 034604 (2006)     .
 . - unres. res. par. with urr option of TALYS                    . 
 .                                                                .
 . Remarks: The resonance parameters are adjusted based on        .

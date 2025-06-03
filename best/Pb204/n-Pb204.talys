@@ -1,23 +1,5 @@
 #
 # General
 #
-ldmodel 2
-m2constant 1.30
-#
-# (n,tot), (n,el), (n,inl)
-#
-s2adjust 82 204 1.2
-#
-# (n,p), (n,2n), (n,np)
-#
-#
-# (n,a)
-#
-#
-# (n,g)
-ldmodelCN 1 
-#
-#
-# Other: Isomers, (n,d), (n,t), (n,h) etc.
-#
-ngfit y
+ldmodel 1
+fit y

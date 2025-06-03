@@ -1,9 +1,9 @@
  n-Cn285.res.tendl.2023: Merger of MF1 and MF2                      99 0  0    0
- 1.122850+5 2.827274+2          1          1         17          11285 1451    1
+ 1.122850+5 2.827274+2          1          0         17          11285 1451    1
  0.000000+0 0.000000+0          0          0          0          61285 1451    2
  1.000000+0 2.000000+8          1          0         10       20231285 1451    3
  0.000000+0 0.000000+0          0          0          1          21285 1451    4
-112-Cn-285 IAEA       EVAL-DEC23 A.J. Koning and D. Rochman       1285 1451    5
+112-Cn-285 IAEA       EVAL-AUG24 A.J. Koning and D. Rochman       1285 1451    5
  TENDL-2023           DIST-      REV1-                            1285 1451    6
 ----TENDL-2023        Material 1285         REVISION 1            1285 1451    7
 -----Incident neutron  data                                       1285 1451    8

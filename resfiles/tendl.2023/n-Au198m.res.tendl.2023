@@ -1,9 +1,9 @@
  n-Au198m.res.tendl.2023: Merger of MF1 and MF2                     99 0  0    0
  7.919800+4 1.962676+2          1          0         17          17929 1451    1
- 8.119000+5 1.000000+0         40          1          0          67929 1451    2
+ 8.119000+5 1.000000+0         51          1          0          67929 1451    2
  1.000000+0 2.000000+8          1          0         10       20237929 1451    3
  0.000000+0 0.000000+0          0          0          1          27929 1451    4
- 79-Au-198MIAEA       EVAL-DEC23 A.J. Koning and D. Rochman       7929 1451    5
+ 79-Au-198MIAEA       EVAL-AUG24 A.J. Koning and D. Rochman       7929 1451    5
  TENDL-2023           DIST-      REV1-                            7929 1451    6
 ----TENDL-2023        Material 7929         REVISION 1            7929 1451    7
 -----Incident neutron  data                                       7929 1451    8

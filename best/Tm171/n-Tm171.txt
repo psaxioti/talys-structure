@@ -2,6 +2,7 @@
 .                                                                .
 . Correction res. param MF=2 MT=151 (E. Dupond, G. Noguere CEA)  . 
 . - resonance parameter from Guerrero et al. (nTOF Collaboration). 
+.                            Phys Rev. Let. 125, 142701 (2020)   .
 . - use thermal value and res. integral from Heftrich et al.     .
 . - unres. res. par. with urr option of TALYS                    . 
 .                                                                .

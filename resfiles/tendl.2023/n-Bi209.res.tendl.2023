@@ -1,9 +1,9 @@
  n-Bi209.res.tendl.2023: Merger of MF1 and MF2                      99 0  0    0
  8.320900+4 2.071852+2          1          0         17          18325 1451    1
  0.000000+0 0.000000+0          0          0          0          68325 1451    2
- 1.000000+0 2.000000+7          1          0         10       20238325 1451    3
+ 1.000000+0 2.000000+8          1          0         10       20238325 1451    3
  0.000000+0 0.000000+0          0          0          1          28325 1451    4
- 83-Bi-209 IAEA       EVAL-NOV23 A.J. Koning and D. Rochman       8325 1451    5
+ 83-Bi-209 IAEA       EVAL-AUG24 A.J. Koning and D. Rochman       8325 1451    5
  TENDL-2023           DIST-      REV1-                            8325 1451    6
 ----TENDL-2023        Material 8325         REVISION 1            8325 1451    7
 -----Incident neutron  data                                       8325 1451    8

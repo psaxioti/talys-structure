@@ -1,2 +1,5 @@
-gamgamadjust  7  15 0.10                                                        
-ngfit y
+#
+# General
+#
+ldmodel 1
+fit y

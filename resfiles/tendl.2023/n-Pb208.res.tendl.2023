@@ -1,9 +1,9 @@
  n-Pb208.res.tendl.2023: Merger of MF1 and MF2                      99 0  0    0
  8.220800+4 2.061900+2          1          0         17          18237 1451    1
  0.000000+0 0.000000+0          0          0          0          68237 1451    2
- 1.000000+0 2.000000+7          1          0         10       20238237 1451    3
+ 1.000000+0 2.000000+8          1          0         10       20238237 1451    3
  0.000000+0 0.000000+0          0          0          1          28237 1451    4
- 82-Pb-208 IAEA       EVAL-NOV23 A.J. Koning and D. Rochman       8237 1451    5
+ 82-Pb-208 IAEA       EVAL-AUG24 A.J. Koning and D. Rochman       8237 1451    5
  TENDL-2023           DIST-      REV1-                            8237 1451    6
 ----TENDL-2023        Material 8237         REVISION 1            8237 1451    7
 -----Incident neutron  data                                       8237 1451    8

@@ -1,7 +1,8 @@
 #
 # General
 #
-ldmodel 2
+ldmodel 7
+fit y
 #
 # (n,tot), (n,el), (n,inl)
 #

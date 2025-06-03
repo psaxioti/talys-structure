@@ -1,9 +1,9 @@
  n-Hf177n.res.tendl.2023: Merger of MF1 and MF2                     99 0  0    0
  7.217700+4 1.754232+2          1          0         17          17236 1451    1
- 2.740020+6 1.000000+0         40          2          0          67236 1451    2
+ 2.740020+6 1.000000+0        108          2          0          67236 1451    2
  1.000000+0 2.000000+8          1          0         10       20237236 1451    3
  0.000000+0 0.000000+0          0          0          1          27236 1451    4
- 72-Hf-177NIAEA       EVAL-DEC23 A.J. Koning and D. Rochman       7236 1451    5
+ 72-Hf-177NIAEA       EVAL-AUG24 A.J. Koning and D. Rochman       7236 1451    5
  TENDL-2023           DIST-      REV1-                            7236 1451    6
 ----TENDL-2023        Material 7236         REVISION 1            7236 1451    7
 -----Incident neutron  data                                       7236 1451    8
