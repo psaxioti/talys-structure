@@ -9,3 +9,4 @@ fit y
 avadjust n 1.0 5. 11. 8. 1.04
 #
 Rgamma 3.
+isomer 0.01
